@@ -10,9 +10,7 @@
 6. [Z 字形变换](Code/0006.ipynb)
 7. [整数反转](Code/0007.ipynb)
 8. [字符串转换整数(atoi)](Code/0008.ipynb)
-
-
-9.[回文数](Code/0009.ipynb)
+9. [回文数](Code/0009.ipynb)
 
 
 13.[罗马数字转整数](Code/0013.ipynb)
@@ -36,6 +34,9 @@
 118.[杨辉三角](Code/0118.ipynb)
 
 119.[杨辉三角 II](Code/0119.ipynb)
+
+
+350.[两个数组的交集 II](Code/0350.ipynb)
 
 
 3280.[将日期转换为二进制表示](Code/3280.ipynb)
