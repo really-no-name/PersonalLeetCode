@@ -52,5 +52,10 @@
 
 922.[按奇偶排序数组 II](Code/0922.ipynb)
 
+1678.[设计 Goal 解析器](Code/1678.ipynb)
+
 
 3280.[将日期转换为二进制表示](Code/3280.ipynb)
+
+
+LCR 032.[有效的字母异位词](Code/LCR_032.ipynb)
