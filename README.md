@@ -1,4 +1,4 @@
-## 此项目用于记录本人LeetCode相关程序
+## 此项目用于记录本人 LeetCode 相关程序
 
 ## This project is for documenting my LeetCode related programmes.
 
@@ -49,6 +49,8 @@
 598.[区间加法 II](Code/0598.ipynb)
 
 680.[验证回文串 II](Code/0680.ipynb)
+
+922.[按奇偶排序数组 II](Code/0922.ipynb)
 
 
 3280.[将日期转换为二进制表示](Code/3280.ipynb)
