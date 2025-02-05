@@ -58,6 +58,8 @@
 
 680.[验证回文串 II](Code/0680.ipynb)
 
+896.[单调数列](Code/0896.ipynb)
+
 922.[按奇偶排序数组 II](Code/0922.ipynb)
 
 1678.[设计 Goal 解析器](Code/1678.ipynb)
