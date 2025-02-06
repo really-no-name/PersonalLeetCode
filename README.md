@@ -35,6 +35,8 @@
 
 46.[全排列](Code/0046.ipynb)
 
+47.[全排列 II](Code/0047.ipynb)
+
 78.[子集](Code/0078.ipynb)?
 
 81.[搜索旋转排序数组 II](Code/0081.ipynb) ?
