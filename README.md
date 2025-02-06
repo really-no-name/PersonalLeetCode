@@ -33,6 +33,8 @@
 
 40.[组合总和II](Code/0040.ipynb)
 
+46.[全排列](Code/0046.ipynb)
+
 78.[子集](Code/0078.ipynb)?
 
 81.[搜索旋转排序数组 II](Code/0081.ipynb) ?
