@@ -14,47 +14,46 @@
 
 11.[盛最多水的容器](Code/0011.ipynb)
 
-13.[罗马数字转整数](Code/0013.ipynb)
+13. [罗马数字转整数](Code/0013.ipynb)
+14. [最长公共前缀](Code/0014.ipynb)
 
-14.[最长公共前缀](Code/0014.ipynb)
 
-20.[有效的括号](Code/0020.ipynb)
+20. [有效的括号](Code/0020.ipynb)
+21. [合并两个有序链表](Code/0021.ipynb)
 
-21.[合并两个有序链表](Code/0021.ipynb)
 
 26. [删除有序数组中的重复项](Code/0026.ipynb)
 27. [移除元素](Code/0027.ipynb)
 28. [找出字符串中第一个匹配项的下标](Code/0028.ipynb)
 
+
 33.[搜索旋转排序数组](Code/0033.ipynb) ?
 
-39.[组合总和](Code/0039.ipynb)
+35.[搜索插入位置](Code/0035.ipynb)
 
-40.[组合总和II](Code/0040.ipynb)
+39. [组合总和](Code/0039.ipynb)
+40. [组合总和II](Code/0040.ipynb)
 
-46.[全排列](Code/0046.ipynb)
 
-47.[全排列 II](Code/0047.ipynb)
+46. [全排列](Code/0046.ipynb)
+47. [全排列 II](Code/0047.ipynb)
 
 54.[螺旋矩阵](Code/0054.ipynb)
 
 59.[螺旋矩阵 II](Code/0059.ipynb)
 
-62.[不同路径](Code/0062.ipynb) ? 动态规划
-
-63.[不同路径 II](Code/0063.ipynb) ? 动态规划
+62. [不同路径](Code/0062.ipynb) ? 动态规划
+63. [不同路径 II](Code/0063.ipynb) ? 动态规划
 
 78.[子集](Code/0078.ipynb)?
 
-80.[删除有序数组中的重复项 II](Code/0080.ipynb)
-
-81.[搜索旋转排序数组 II](Code/0081.ipynb) ?
+80. [删除有序数组中的重复项 II](Code/0080.ipynb)
+81. [搜索旋转排序数组 II](Code/0081.ipynb) ?
 
 90.[子集 II](Code/0090.ipynb)?
 
-118.[杨辉三角](Code/0118.ipynb)
-
-119.[杨辉三角 II](Code/0119.ipynb)
+118. [杨辉三角](Code/0118.ipynb)
+119. [杨辉三角 II](Code/0119.ipynb)
 
 153.[寻找旋转排序数组中的最小值](Code/0153.ipynb) ?
 
