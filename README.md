@@ -2,7 +2,11 @@
 
 ## This project is for documenting my LeetCode related programmes.
 
-1. [两数之和](Code/0001.ipynb)
+**本项目仅用于个人学习及记录，禁止转载或公开分享相关题目内容，以避免对 LeetCode 造成侵权。**
+
+**This project is solely for personal learning and documentation purposes. Redistribution or public sharing of any related problem content is strictly prohibited to avoid infringement on LeetCode.**
+
+1. [两数之和](Code/0001)
 2. [两数相加](Code/0002.ipynb)
 3. [无重复字符的最长子串](Code/0003.ipynb)
 4. [寻找两个正序数组的中位数](Code/0004.ipynb)
@@ -16,6 +20,7 @@
 
 13. [罗马数字转整数](Code/0013.ipynb)
 14. [最长公共前缀](Code/0014.ipynb)
+15. [三数之和](Code/0015.ipynb)
 
 
 20. [有效的括号](Code/0020.ipynb)
