@@ -7,7 +7,7 @@
 **This project is solely for personal learning and documentation purposes. Redistribution or public sharing of any related problem content is strictly prohibited to avoid infringement on LeetCode.**
 
 1. [两数之和](Code/0001)
-2. [两数相加](Code/0002/0002.ipynb)
+2. [两数相加](Code/0002)
 3. [无重复字符的最长子串](Code/0003.ipynb)
 4. [寻找两个正序数组的中位数](Code/0004.ipynb)
 5. [最长回文字串](Code/0005.ipynb) (Manacher 算法)
@@ -52,6 +52,9 @@
 
 62. [不同路径](Code/0062.ipynb) ? 动态规划
 63. [不同路径 II](Code/0063.ipynb) ? 动态规划
+
+67.[二进制求和](Code/0067)
+
 
 78.[子集](Code/0078.ipynb)?
 
