@@ -1,6 +1,6 @@
 //
 // Created by Bolun Xu on 25-2-11.
-//
+// 0 ms, 8.89 mb
 #include <iostream>
 #include <algorithm>
 #include <string>
@@ -19,11 +19,11 @@ public:
         while (i >= 0 || j >= 0 || carry) {
             int sum = carry;
             if (i >= 0) {
-                sum += a[i--] - '0';  // 将字符转换为数字
+                sum += a[i] - '0';  // 将字符转换为数字
                 i --;
             }
             if (j >= 0) {
-                sum += b[j--] - '0';
+                sum += b[j] - '0';
                 j--;
             }
             carry = sum / 2;
