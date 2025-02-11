@@ -7,14 +7,14 @@
 **This project is solely for personal learning and documentation purposes. Redistribution or public sharing of any related problem content is strictly prohibited to avoid infringement on LeetCode.**
 
 1. [两数之和](Code/0001)
-2. [两数相加](Code/0002.ipynb)
+2. [两数相加](Code/0002/0002.ipynb)
 3. [无重复字符的最长子串](Code/0003.ipynb)
 4. [寻找两个正序数组的中位数](Code/0004.ipynb)
 5. [最长回文字串](Code/0005.ipynb) (Manacher 算法)
 6. [Z 字形变换](Code/0006.ipynb)
 7. [整数反转](Code/0007.ipynb)
 8. [字符串转换整数(atoi)](Code/0008.ipynb)
-9. [回文数](Code/0009.ipynb)
+9. [回文数](Code/0009)
 
 11.[盛最多水的容器](Code/0011.ipynb)
 
