@@ -12,7 +12,6 @@
 执行用时： 902 ms
 消耗内存： 22.67 mb
 """
-from fontTools.qu2cu.qu2cu import Solution
 
 
 class TwoSum:
