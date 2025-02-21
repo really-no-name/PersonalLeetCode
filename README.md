@@ -6,15 +6,24 @@
 
 **This project is solely for personal learning and documentation purposes. Redistribution or public sharing of any related problem content is strictly prohibited to avoid infringement on LeetCode.**
 
-1. [两数之和](Code/0001)
-2. [两数相加](Code/0002)
-3. [无重复字符的最长子串](Code/0003)
-4. [寻找两个正序数组的中位数](Code/0004)
-5. [最长回文字串](Code/0005.ipynb) (Manacher 算法)
+| #    | Title                                | Solution                                                  | Time    | Space    | Difficulty | Tag  | Note        |
+|:-----|:-------------------------------------|:----------------------------------------------------------|:--------|:---------|:-----------|:-----|:------------|
+| 0001 | [两数之和](Code/0001)                    | [C++](Code/0001/0001.cpp) [Jupyter](Code/0001/0001.ipynb) |         |          | Easy       |      |             |
+| 0002 | [两数相加](Code/0002)                    | [Jupyter](Code/0002/0002.ipynb)                           | 4 ms    | 17.83 mb | Middle     |      |             |
+| 0003 | [无重复字符的最长子串](Code/0003/README.md)    | [Python](Code/0003/0003.py)                               | 19 ms   | 17.75 mb | Middle     |      |             |
+| 0004 | [寻找两个正序数组的中位数](Code/0004/README.md)  | [Python](Code/0004/0004.py)                               | 11 ms   | 18.07 mb | Difficult  |      | 双指针         |
+| 0005 | [最长回文字串](Code/0005)                  | [Jupyter](Code/0005.ipynb)                                | O(N^2 ) | O(N)     | Middle     |      | Manacher 算法 |
+| 0009 | [回文数](Code/0009)                     | [Jupyter](Code/0009/0009.ipynb) [C++](Code/0009/0009.cpp) |         |          | Easy       | 字符串  |             |
+| 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md) | [Python](Code/2209/2209.py)                               | O(2^N)  | O(N)     | Difficult  | 动态规划 |             |
+
+
+
 6. [Z 字形变换](Code/0006.ipynb)
 7. [整数反转](Code/0007.ipynb)
 8. [字符串转换整数(atoi)](Code/0008.ipynb)
-9. [回文数](Code/0009)
+
+
+
 10. [正则表达式匹配](Code/0010) ?
 11. [盛最多水的容器](Code/0011.ipynb)
 
