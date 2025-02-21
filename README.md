@@ -19,7 +19,7 @@
 | 0035 | [搜索插入位置](Code/0035/README.md)                | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  | 简单         | 二分查找 |             |
 | 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归   |             |
 | 1283 | [使结果不超过阈值的最小除数](Code/1283/README.md)         | [Python](Code/1283/1283.py)                                | 中等         | 二分查找 |             |
-| 2187 | [完成旅途的最少时间](Code/2187/README.md)             | [Python](Code/2187/2187_2.py)                              | 中等         | 二分查找 |             |
+| 2187 | [完成旅途的最少时间](Code/2187/README.md)             | [Python](Code/2187/2187_2.py),   [C++](Code/2187/2187.cpp) | 中等         | 二分查找 |             |
 | 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md)         | [Python](Code/2209/2209.py)                                | 困难         | 动态规划 |             |
 
 

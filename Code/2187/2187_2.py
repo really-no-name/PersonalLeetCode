@@ -31,6 +31,7 @@ class Solution:
                 right = mid
             else:
                 left = mid + 1
+            print(f"Debug: New bound {left}, {right}")
         return right
 
 
