@@ -6,16 +6,21 @@
 
 **This project is solely for personal learning and documentation purposes. Redistribution or public sharing of any related problem content is strictly prohibited to avoid infringement on LeetCode.**
 
-| #    | Title                                | Solution                                                  | Time         | Space    | Difficulty | Tag  | Note        |
-|:-----|:-------------------------------------|:----------------------------------------------------------|:-------------|:---------|:-----------|:-----|:------------|
-| 0001 | [两数之和](Code/0001)                    | [C++](Code/0001/0001.cpp) [Jupyter](Code/0001/0001.ipynb) |              |          | Easy       |      |             |
-| 0002 | [两数相加](Code/0002)                    | [Jupyter](Code/0002/0002.ipynb)                           | 4 ms         | 17.83 mb | Middle     |      |             |
-| 0003 | [无重复字符的最长子串](Code/0003/README.md)    | [Python](Code/0003/0003.py)                               | 19 ms        | 17.75 mb | Middle     |      |             |
-| 0004 | [寻找两个正序数组的中位数](Code/0004/README.md)  | [Python](Code/0004/0004.py)                               | 11 ms        | 18.07 mb | Difficult  |      | 双指针         |
-| 0005 | [最长回文字串](Code/0005)                  | [Jupyter](Code/0005.ipynb)                                | O(N^2 )      | O(N)     | Middle     |      | Manacher 算法 |
-| 0009 | [回文数](Code/0009)                     | [Jupyter](Code/0009/0009.ipynb) [C++](Code/0009/0009.cpp) |              |          | Easy       | 字符串  |             |
-| 0254 | [因子的组合](Code/0254/README.md)         | [Python](Code/0254/0254_2.py)                             | O(N*Sqrt(N)) | O(N)     | Middle     | 递归   |             |
-| 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md) | [Python](Code/2209/2209.py)                               | O(2^N)       | O(N)     | Difficult  | 动态规划 |             |
+| #    | Title                                        | Solution                                                   | Time         | Space    | Difficulty | Tag  | Note        |
+|:-----|:---------------------------------------------|:-----------------------------------------------------------|:-------------|:---------|:-----------|:-----|:------------|
+| 0001 | [两数之和](Code/0001)                            | [C++](Code/0001/0001.cpp), [Jupyter](Code/0001/0001.ipynb) |              |          | 简单         |      |             |
+| 0002 | [两数相加](Code/0002)                            | [Jupyter](Code/0002/0002.ipynb)                            | 4 ms         | 17.83 mb | 中等         |      |             |
+| 0003 | [无重复字符的最长子串](Code/0003/README.md)            | [Python](Code/0003/0003.py)                                | 19 ms        | 17.75 mb | 中等         |      |             |
+| 0004 | [寻找两个正序数组的中位数](Code/0004/README.md)          | [Python](Code/0004/0004.py)                                | 11 ms        | 18.07 mb | 困难         | 二分查找 | 双指针         |
+| 0005 | [最长回文字串](Code/0005)                          | [Jupyter](Code/0005.ipynb)                                 | O(N^2 )      | O(N)     | 中等         |      | Manacher 算法 |
+| 0009 | [回文数](Code/0009)                             | [Jupyter](Code/0009/0009.ipynb), [C++](Code/0009/0009.cpp) |              |          | 简单         | 字符串  |             |
+| 0033 | [搜索旋转排序数组](Code/0033)                        | [Jupyter](Code/0033.ipynb)                                 |              |          | 中等         | 二分查找 |             |
+| 0034 | [在排序数组中查找元素的第一个和最后一个位置](Code/0034/README.md) | [Python](Code/0034/0034.py),   [C++](Code/0034/0034.cpp)   |              |          | 简单         | 二分查找 |             |
+| 0035 | [搜索插入位置](Code/0035/README.md)                | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  |              |          | 简单         | 二分查找 |             |
+| 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | O(N*Sqrt(N)) | O(N)     | 中等         | 递归   |             |
+| 1283 | [使结果不超过阈值的最小除数](Code/1283/README.md)         | [Python](Code/1283/1283.py)                                | O(Log(N))    | O(N)     |            | 二分查找 |             |
+| 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md)         | [Python](Code/2209/2209.py)                                | O(2^N)       | O(N)     | 困难         | 动态规划 |             |
+
 
 
 
@@ -43,9 +48,7 @@
 28. [找出字符串中第一个匹配项的下标](Code/0028.ipynb)
 
 
-33. [搜索旋转排序数组](Code/0033.ipynb) ?
-34. [在排序数组中查找元素的第一个和最后一个位置](Code/0034)
-35. [搜索插入位置](Code/0035)
+
 
 
 39. [组合总和](Code/0039.ipynb)
