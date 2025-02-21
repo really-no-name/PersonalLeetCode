@@ -18,6 +18,7 @@
 | 0034 | [在排序数组中查找元素的第一个和最后一个位置](Code/0034/README.md) | [Python](Code/0034/0034.py),   [C++](Code/0034/0034.cpp)   | 简单         | 二分查找 |             |
 | 0035 | [搜索插入位置](Code/0035/README.md)                | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  | 简单         | 二分查找 |             |
 | 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归   |             |
+| 1011 | [在 D 天内送达包裹的能力](Code/1011/README.md)         | [Python](Code/1011/1011.py)                                | 中等         | 二分查找 |             |
 | 1283 | [使结果不超过阈值的最小除数](Code/1283/README.md)         | [Python](Code/1283/1283.py)                                | 中等         | 二分查找 |             |
 | 1870 | [准时到达的列车最小时速](Code/1870/README.md)           | [Python](Code/1870/1870.py)                                | 中等         | 二分查找 |             |
 | 2187 | [完成旅途的最少时间](Code/2187/README.md)             | [Python](Code/2187/2187_2.py),   [C++](Code/2187/2187.cpp) | 中等         | 二分查找 |             |
