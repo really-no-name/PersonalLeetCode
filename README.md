@@ -28,6 +28,7 @@
 | 2187 | [完成旅途的最少时间](Code/2187/README.md)             | [Python](Code/2187/2187_2.py),   [C++](Code/2187/2187.cpp) | 中等         | 二分查找 |             |      |
 | 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md)         | [Python](Code/2209/2209.py)                                | 困难         | 动态规划 |             |      |
 | 2235 | [两整数相加](Code/2235/README.md)                 | [Python](Code/2235/2235.py),   [C++](Code/2235/2235.cpp)   | 简单         |      |             |      |
+| 2469 | [温度转换](Code/2469/README.md)                  | [Python](Code/2469/2469.py),   [C++](Code/2469/2469.cpp)   | 简单         |      |             |      |
 
 
 
