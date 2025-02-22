@@ -6,27 +6,28 @@
 
 **This project is solely for personal learning and documentation purposes. Redistribution or public sharing of any related problem content is strictly prohibited to avoid infringement on LeetCode.**
 
-| #    | Title                                        | Solution                                                   | Difficulty | Tag  | Note        |
-|:-----|:---------------------------------------------|:-----------------------------------------------------------|:-----------|:-----|:------------|
-| 0001 | [两数之和](Code/0001)                            | [C++](Code/0001/0001.cpp), [Jupyter](Code/0001/0001.ipynb) | 简单         |      |             |
-| 0002 | [两数相加](Code/0002)                            | [Jupyter](Code/0002/0002.ipynb)                            | 中等         |      |             |
-| 0003 | [无重复字符的最长子串](Code/0003/README.md)            | [Python](Code/0003/0003.py)                                | 中等         |      |             |
-| 0004 | [寻找两个正序数组的中位数](Code/0004/README.md)          | [Python](Code/0004/0004.py)                                | 困难         | 二分查找 | 双指针         |
-| 0005 | [最长回文字串](Code/0005)                          | [Jupyter](Code/0005/0005.ipynb)                            | 中等         |      | Manacher 算法 |
-| 0009 | [回文数](Code/0009)                             | [Jupyter](Code/0009/0009.ipynb), [C++](Code/0009/0009.cpp) | 简单         | 字符串  |             |
-| 0033 | [搜索旋转排序数组](Code/0033)                        | [Jupyter](Code/0033/0033.ipynb)                            | 中等         | 二分查找 |             |
-| 0034 | [在排序数组中查找元素的第一个和最后一个位置](Code/0034/README.md) | [Python](Code/0034/0034.py),   [C++](Code/0034/0034.cpp)   | 简单         | 二分查找 |             |
-| 0035 | [搜索插入位置](Code/0035/README.md)                | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  | 简单         | 二分查找 |             |
-| 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归   |             |
-| 0412 | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |      |             |
-| 1011 | [在 D 天内送达包裹的能力](Code/1011/README.md)         | [Python](Code/1011/1011.py)                                | 中等         | 二分查找 |             |
-| 1283 | [使结果不超过阈值的最小除数](Code/1283/README.md)         | [Python](Code/1283/1283.py)                                | 中等         | 二分查找 |             |
-| 1342 | [将数字变成 0 的操作次数](Code/1342/README.md)         | [Python](Code/1342/1342.py),   [C++](Code/1342/1342.cpp)   | 简单         |      |             |
-| 1456 | [定长子串中元音的最大数目](Code/1456/README.md)          | [Python](Code/1456/1456.py),   [C++](Code/1456/1456.cpp)   | 中等         |      | 定长滑窗        |
-| 1672 | [最富有客户的资产总量](Code/1672/README.md)            | [Python](Code/1672/1672.py),   [C++](Code/1672/1672.cpp)   | 简单         |      |             |
-| 1870 | [准时到达的列车最小时速](Code/1870/README.md)           | [Python](Code/1870/1870.py)                                | 中等         | 二分查找 |             |
-| 2187 | [完成旅途的最少时间](Code/2187/README.md)             | [Python](Code/2187/2187_2.py),   [C++](Code/2187/2187.cpp) | 中等         | 二分查找 |             |
-| 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md)         | [Python](Code/2209/2209.py)                                | 困难         | 动态规划 |             |
+| #    | Title                                        | Solution                                                   | Difficulty | Tag  | Tag         | Note |
+|:-----|:---------------------------------------------|:-----------------------------------------------------------|:-----------|:-----|:------------|------|
+| 0001 | [两数之和](Code/0001)                            | [C++](Code/0001/0001.cpp), [Jupyter](Code/0001/0001.ipynb) | 简单         |      |             |      |
+| 0002 | [两数相加](Code/0002)                            | [Jupyter](Code/0002/0002.ipynb)                            | 中等         |      |             |      |
+| 0003 | [无重复字符的最长子串](Code/0003/README.md)            | [Python](Code/0003/0003.py)                                | 中等         |      |             |      |
+| 0004 | [寻找两个正序数组的中位数](Code/0004/README.md)          | [Python](Code/0004/0004.py)                                | 困难         | 二分查找 | 双指针         |      |
+| 0005 | [最长回文字串](Code/0005)                          | [Jupyter](Code/0005/0005.ipynb)                            | 中等         |      | Manacher 算法 |      |
+| 0009 | [回文数](Code/0009)                             | [Jupyter](Code/0009/0009.ipynb), [C++](Code/0009/0009.cpp) | 简单         | 字符串  |             |      |
+| 0033 | [搜索旋转排序数组](Code/0033)                        | [Jupyter](Code/0033/0033.ipynb)                            | 中等         | 二分查找 |             |      |
+| 0034 | [在排序数组中查找元素的第一个和最后一个位置](Code/0034/README.md) | [Python](Code/0034/0034.py),   [C++](Code/0034/0034.cpp)   | 简单         | 二分查找 |             |      |
+| 0035 | [搜索插入位置](Code/0035/README.md)                | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  | 简单         | 二分查找 |             |      |
+| 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归   |             |      |
+| 0412 | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |      |             |      |
+| 1011 | [在 D 天内送达包裹的能力](Code/1011/README.md)         | [Python](Code/1011/1011.py)                                | 中等         | 二分查找 |             |      |
+| 1283 | [使结果不超过阈值的最小除数](Code/1283/README.md)         | [Python](Code/1283/1283.py)                                | 中等         | 二分查找 |             |      |
+| 1342 | [将数字变成 0 的操作次数](Code/1342/README.md)         | [Python](Code/1342/1342.py),   [C++](Code/1342/1342.cpp)   | 简单         |      |             |      |
+| 1456 | [定长子串中元音的最大数目](Code/1456/README.md)          | [Python](Code/1456/1456.py),   [C++](Code/1456/1456.cpp)   | 中等         |      | 定长滑窗        |      |
+| 1672 | [最富有客户的资产总量](Code/1672/README.md)            | [Python](Code/1672/1672.py),   [C++](Code/1672/1672.cpp)   | 简单         |      |             |      |
+| 1870 | [准时到达的列车最小时速](Code/1870/README.md)           | [Python](Code/1870/1870.py)                                | 中等         | 二分查找 |             |      |
+| 2187 | [完成旅途的最少时间](Code/2187/README.md)             | [Python](Code/2187/2187_2.py),   [C++](Code/2187/2187.cpp) | 中等         | 二分查找 |             |      |
+| 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md)         | [Python](Code/2209/2209.py)                                | 困难         | 动态规划 |             |      |
+| 2235 | [两整数相加](Code/2235/README.md)                 | [Python](Code/2235/2235.py),   [C++](Code/2235/2235.cpp)   | 简单         |      |             |      |
 
 
 
