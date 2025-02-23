@@ -21,7 +21,7 @@
 | 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归          |             |      |
 | 0258 | [各位相加](Code/0258/README.md)                  | [Python](Code/0258/0258.py),   [C++](Code/0258/0258.cpp)   | 简单         |             |             |      |
 | 0263 | 丑数                                           | [Python](Code/0263/0263.py),   [C++](Code/0263/0263.cpp)   | 简单         |             |             |      |
-| 0266 | 回文排列                                         | [Python](Code/0266/0266.py),   [C++](Code/0266/0266.cpp)   | 简单         |             |             |      |
+| 0266 | 回文排列                                         | [Python](Code/0266/0266.py)                                | 简单         |             |             |      |
 | 0326 | [3 的幂](Code/0326/README.md)                  | [Python](Code/0326/0326.py),   [C++](Code/0326/0326.cpp)   | 简单         |             |             |      |
 | 0412 | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |             |             |      |
 | 0709 | [转换成小写字母](Code/0709/README.md)               | [Python](Code/0709/0709.py), [C++](Code/0709/0709.cpp)     | 简单         |             |             |      |
@@ -35,6 +35,7 @@
 | 1456 | [定长子串中元音的最大数目](Code/1456/README.md)          | [Python](Code/1456/1456.py),   [C++](Code/1456/1456.cpp)   | 中等         |             | 定长滑窗        |      |
 | 1470 | [重新排列数组](Code/1470/README.md)                | [Python](Code/1470/1470.py),   [C++](Code/1470/1470.cpp)   | 简单         |             |             |      |      |
 | 1672 | [最富有客户的资产总量](Code/1672/README.md)            | [Python](Code/1672/1672.py),   [C++](Code/1672/1672.cpp)   | 简单         |             |             |      |
+| 1757 | 可回收且低脂的产品                                    | [Python](Code/1757/1757.py)                                | 简单         |             |             |      |
 | 1870 | [准时到达的列车最小时速](Code/1870/README.md)           | [Python](Code/1870/1870.py)                                | 中等         | 二分查找        |             |      |
 | 2187 | [完成旅途的最少时间](Code/2187/README.md)             | [Python](Code/2187/2187_2.py),   [C++](Code/2187/2187.cpp) | 中等         | 二分查找        |             |      |
 | 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md)         | [Python](Code/2209/2209.py)                                | 困难         | 动态规划        |             |      |
