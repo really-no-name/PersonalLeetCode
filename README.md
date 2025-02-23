@@ -17,6 +17,7 @@
 | 0033 | [搜索旋转排序数组](Code/0033)                        | [Jupyter](Code/0033/0033.ipynb)                            | 中等         | 二分查找        |             |      |
 | 0034 | [在排序数组中查找元素的第一个和最后一个位置](Code/0034/README.md) | [Python](Code/0034/0034.py),   [C++](Code/0034/0034.cpp)   | 简单         | 二分查找        |             |      |
 | 0035 | [搜索插入位置](Code/0035/README.md)                | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  | 简单         | 二分查找        |             |      |
+| 0231 | [2 的幂](Code/0231/README.md)                  | [Python](Code/0231/0231_2.py),   [C++](Code/0231/0231.cpp) | 简单         | 位运算         |             |      |
 | 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归          |             |      |
 | 0412 | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |             |             |      |
 | 0709 | [转换成小写字母](Code/0709/README.md)               | [Python](Code/0709/0709.py), [C++](Code/0709/0709.cpp)     | 简单         |             |             |      |
