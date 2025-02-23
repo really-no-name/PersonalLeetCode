@@ -19,6 +19,7 @@
 | 0035 | [搜索插入位置](Code/0035/README.md)                | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  | 简单         | 二分查找        |             |      |
 | 0231 | [2 的幂](Code/0231/README.md)                  | [Python](Code/0231/0231_2.py),   [C++](Code/0231/0231.cpp) | 简单         | 位运算         |             |      |
 | 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归          |             |      |
+| 0263 | 丑数                                           | [Python](Code/0263/0263.py),   [C++](Code/0263/0263.cpp)   | 简单         |             |             |      |
 | 0326 | [3 的幂](Code/0326/README.md)                  | [Python](Code/0326/0326.py),   [C++](Code/0326/0326.cpp)   | 简单         |             |             |      |
 | 0412 | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |             |             |      |
 | 0709 | [转换成小写字母](Code/0709/README.md)               | [Python](Code/0709/0709.py), [C++](Code/0709/0709.cpp)     | 简单         |             |             |      |
