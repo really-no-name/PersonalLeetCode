@@ -6,43 +6,44 @@
 
 **This project is solely for personal learning and documentation purposes. Redistribution or public sharing of any related problem content is strictly prohibited to avoid infringement on LeetCode.**
 
-| #    | Title                                        | Solution                                                   | Difficulty | Tag         | Tag         | Note |
-|:-----|:---------------------------------------------|:-----------------------------------------------------------|:-----------|:------------|:------------|------|
-| 0001 | [两数之和](Code/0001)                            | [C++](Code/0001/0001.cpp), [Jupyter](Code/0001/0001.ipynb) | 简单         |             |             |      |
-| 0002 | [两数相加](Code/0002)                            | [Jupyter](Code/0002/0002.ipynb)                            | 中等         |             |             |      |
-| 0003 | [无重复字符的最长子串](Code/0003/README.md)            | [Python](Code/0003/0003.py)                                | 中等         |             |             |      |
-| 0004 | [寻找两个正序数组的中位数](Code/0004/README.md)          | [Python](Code/0004/0004.py)                                | 困难         | 二分查找        | 双指针         |      |
-| 0005 | [最长回文字串](Code/0005)                          | [Jupyter](Code/0005/0005.ipynb)                            | 中等         |             | Manacher 算法 |      |
-| 0009 | [回文数](Code/0009)                             | [Jupyter](Code/0009/0009.ipynb), [C++](Code/0009/0009.cpp) | 简单         | 字符串         |             |      |
-| 0033 | [搜索旋转排序数组](Code/0033)                        | [Jupyter](Code/0033/0033.ipynb)                            | 中等         | 二分查找        |             |      |
-| 0034 | [在排序数组中查找元素的第一个和最后一个位置](Code/0034/README.md) | [Python](Code/0034/0034.py),   [C++](Code/0034/0034.cpp)   | 简单         | 二分查找        |             |      |
-| 0035 | [搜索插入位置](Code/0035/README.md)                | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  | 简单         | 二分查找        |             |      |
-| 0231 | [2 的幂](Code/0231/README.md)                  | [Python](Code/0231/0231_2.py),   [C++](Code/0231/0231.cpp) | 简单         | 位运算         |             |      |
-| 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归          |             |      |
-| 0258 | [各位相加](Code/0258/README.md)                  | [Python](Code/0258/0258.py),   [C++](Code/0258/0258.cpp)   | 简单         |             |             |      |
-| 0263 | 丑数                                           | [Python](Code/0263/0263.py),   [C++](Code/0263/0263.cpp)   | 简单         |             |             |      |
-| 0266 | 回文排列                                         | [Python](Code/0266/0266.py)                                | 简单         |             |             |      |
-| 0326 | [3 的幂](Code/0326/README.md)                  | [Python](Code/0326/0326.py),   [C++](Code/0326/0326.cpp)   | 简单         |             |             |      |
-| 0412 | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |             |             |      |
-| 0709 | [转换成小写字母](Code/0709/README.md)               | [Python](Code/0709/0709.py), [C++](Code/0709/0709.cpp)     | 简单         |             |             |      |
-| 0852 | [山脉数组的峰顶索引](Code/0852/README.md)             | [Python](Code/0852/0852.py),   [C++](Code/0852/0852.cpp)   | 中等         | 二分查找        |             |      |
-| 0867 | [转置矩阵](Code/0867/README.md)                  | [Python](Code/0867/0867.py),   [C++](Code/0867/0867.cpp)   | 简单         |             |             |      |
-| 1011 | [在 D 天内送达包裹的能力](Code/1011/README.md)         | [Python](Code/1011/1011.py)                                | 中等         | 二分查找        |             |      |
-| 1281 | 整数的各位积和之差                                    | [Python](Code/1281/1281.py),   [C++](Code/1281/1281.cpp)   | 简单         |             |             |      |
-| 1283 | [使结果不超过阈值的最小除数](Code/1283/README.md)         | [Python](Code/1283/1283.py)                                | 中等         | 二分查找        |             |      |
-| 1342 | [将数字变成 0 的操作次数](Code/1342/README.md)         | [Python](Code/1342/1342.py),   [C++](Code/1342/1342.cpp)   | 简单         |             |             |      |
-| 1422 | [分割字符串的最大得分](Code/1422/README.md)            | [Python](Code/1422/1422.py),   [C++](Code/1422/1422.cpp)   | 简单         |             |             |      |
-| 1456 | [定长子串中元音的最大数目](Code/1456/README.md)          | [Python](Code/1456/1456.py),   [C++](Code/1456/1456.cpp)   | 中等         |             | 定长滑窗        |      |
-| 1470 | [重新排列数组](Code/1470/README.md)                | [Python](Code/1470/1470.py),   [C++](Code/1470/1470.cpp)   | 简单         |             |             |      |      |
-| 1672 | [最富有客户的资产总量](Code/1672/README.md)            | [Python](Code/1672/1672.py),   [C++](Code/1672/1672.cpp)   | 简单         |             |             |      |
-| 1757 | 可回收且低脂的产品                                    | [Python](Code/1757/1757.py)                                | 简单         |             |             |      |
-| 1870 | [准时到达的列车最小时速](Code/1870/README.md)           | [Python](Code/1870/1870.py)                                | 中等         | 二分查找        |             |      |
-| 2187 | [完成旅途的最少时间](Code/2187/README.md)             | [Python](Code/2187/2187_2.py),   [C++](Code/2187/2187.cpp) | 中等         | 二分查找        |             |      |
-| 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md)         | [Python](Code/2209/2209.py)                                | 困难         | 动态规划        |             |      |
-| 2235 | [两整数相加](Code/2235/README.md)                 | [Python](Code/2235/2235.py),   [C++](Code/2235/2235.cpp)   | 简单         | 基础语法 & 数据类型 |             |      |
-| 2413 | [最小偶倍数](Code/2413/README.md)                 | [Python](Code/2413/2413.py),   [C++](Code/2413/2413.cpp)   | 简单         |             |             |      |
-| 2469 | [温度转换](Code/2469/README.md)                  | [Python](Code/2469/2469.py),   [C++](Code/2469/2469.cpp)   | 简单         | 基础语法 & 数据类型 |             |      |
-| 2586 | [统计范围内的元音字符串数](Code/2586/README.md)          | [Python](Code/2586/2586.py),   [C++](Code/2586/2586.cpp)   | 简单         |             |             |      |
+| #    | Title                                               | Solution                                                   | Difficulty | Tag         | Tag         | Note |
+|:-----|:----------------------------------------------------|:-----------------------------------------------------------|:-----------|:------------|:------------|------|
+| 0001 | [两数之和](Code/0001)                                   | [C++](Code/0001/0001.cpp), [Jupyter](Code/0001/0001.ipynb) | 简单         |             |             |      |
+| 0002 | [两数相加](Code/0002)                                   | [Jupyter](Code/0002/0002.ipynb)                            | 中等         |             |             |      |
+| 0003 | [无重复字符的最长子串](Code/0003/README.md)                   | [Python](Code/0003/0003.py)                                | 中等         |             |             |      |
+| 0004 | [寻找两个正序数组的中位数](Code/0004/README.md)                 | [Python](Code/0004/0004.py)                                | 困难         | 二分查找        | 双指针         |      |
+| 0005 | [最长回文字串](Code/0005)                                 | [Jupyter](Code/0005/0005.ipynb)                            | 中等         |             | Manacher 算法 |      |
+| 0009 | [回文数](Code/0009)                                    | [Jupyter](Code/0009/0009.ipynb), [C++](Code/0009/0009.cpp) | 简单         | 字符串         |             |      |
+| 0033 | [搜索旋转排序数组](Code/0033)                               | [Jupyter](Code/0033/0033.ipynb)                            | 中等         | 二分查找        |             |      |
+| 0034 | [在排序数组中查找元素的第一个和最后一个位置](Code/0034/README.md)        | [Python](Code/0034/0034.py),   [C++](Code/0034/0034.cpp)   | 简单         | 二分查找        |             |      |
+| 0035 | [搜索插入位置](Code/0035/README.md)                       | [Python](Code/0035/0035_2.py),  [C++](Code/0035/0035.cpp)  | 简单         | 二分查找        |             |      |
+| 0231 | [2 的幂](Code/0231/README.md)                         | [Python](Code/0231/0231_2.py),   [C++](Code/0231/0231.cpp) | 简单         | 位运算         |             |      |
+| 0254 | [因子的组合](Code/0254/README.md)                        | [Python](Code/0254/0254_2.py)                              | 中等         | 递归          |             |      |
+| 0258 | [各位相加](Code/0258/README.md)                         | [Python](Code/0258/0258.py),   [C++](Code/0258/0258.cpp)   | 简单         |             |             |      |
+| 0263 | 丑数                                                  | [Python](Code/0263/0263.py),   [C++](Code/0263/0263.cpp)   | 简单         |             |             |      |
+| 0266 | 回文排列                                                | [Python](Code/0266/0266.py)                                | 简单         |             |             |      |
+| 0326 | [3 的幂](Code/0326/README.md)                         | [Python](Code/0326/0326.py),   [C++](Code/0326/0326.cpp)   | 简单         |             |             |      |
+| 0412 | [Fizz Buzz](Code/0412/README.md)                    | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |             |             |      |
+| 0584 | 寻找用户推荐人                                             | [Python](Code/0584/0584.py)                                | 简单         |             |             |      |
+| 0709 | [转换成小写字母](Code/0709/README.md)                      | [Python](Code/0709/0709.py), [C++](Code/0709/0709.cpp)     | 简单         |             |             |      |
+| 0852 | [山脉数组的峰顶索引](Code/0852/README.md)                    | [Python](Code/0852/0852.py),   [C++](Code/0852/0852.cpp)   | 中等         | 二分查找        |             |      |
+| 0867 | [转置矩阵](Code/0867/README.md)                         | [Python](Code/0867/0867.py),   [C++](Code/0867/0867.cpp)   | 简单         |             |             |      |
+| 1011 | [在 D 天内送达包裹的能力](Code/1011/README.md)                | [Python](Code/1011/1011.py)                                | 中等         | 二分查找        |             |      |
+| 1281 | 整数的各位积和之差                                           | [Python](Code/1281/1281.py),   [C++](Code/1281/1281.cpp)   | 简单         |             |             |      |
+| 1283 | [使结果不超过阈值的最小除数](Code/1283/README.md)                | [Python](Code/1283/1283.py)                                | 中等         | 二分查找        |             |      |
+| 1342 | [将数字变成 0 的操作次数](Code/1342/README.md)                | [Python](Code/1342/1342.py),   [C++](Code/1342/1342.cpp)   | 简单         |             |             |      |
+| 1422 | [分割字符串的最大得分](Code/1422/README.md)                   | [Python](Code/1422/1422.py),   [C++](Code/1422/1422.cpp)   | 简单         |             |             |      |
+| 1456 | [定长子串中元音的最大数目](Code/1456/README.md)                 | [Python](Code/1456/1456.py),   [C++](Code/1456/1456.cpp)   | 中等         |             | 定长滑窗        |      |
+| 1470 | [重新排列数组](Code/1470/README.md)                       | [Python](Code/1470/1470.py),   [C++](Code/1470/1470.cpp)   | 简单         |             |             |      |      |
+| 1672 | [最富有客户的资产总量](Code/1672/README.md)                   | [Python](Code/1672/1672.py),   [C++](Code/1672/1672.cpp)   | 简单         |             |             |      |
+| 1757 | 可回收且低脂的产品                                           | [Python](Code/1757/1757.py)                                | 简单         |             |             |      |
+| 1870 | [准时到达的列车最小时速](Code/1870/README.md)                  | [Python](Code/1870/1870.py)                                | 中等         | 二分查找        |             |      |
+| 2187 | [完成旅途的最少时间](Code/2187/README.md)                    | [Python](Code/2187/2187_2.py),   [C++](Code/2187/2187.cpp) | 中等         | 二分查找        |             |      |
+| 2209 | [用地毯覆盖后的最少白色砖块](Code/2209/README.md)                | [Python](Code/2209/2209.py)                                | 困难         | 动态规划        |             |      |
+| 2235 | [两整数相加](Code/2235/README.md)                        | [Python](Code/2235/2235.py),   [C++](Code/2235/2235.cpp)   | 简单         | 基础语法 & 数据类型 |             |      |
+| 2413 | [最小偶倍数](Code/2413/README.md)                        | [Python](Code/2413/2413.py),   [C++](Code/2413/2413.cpp)   | 简单         |             |             |      |
+| 2469 | [温度转换](Code/2469/README.md)                         | [Python](Code/2469/2469.py),   [C++](Code/2469/2469.cpp)   | 简单         | 基础语法 & 数据类型 |             |      |
+| 2586 | [统计范围内的元音字符串数](Code/2586/README.md)                 | [Python](Code/2586/2586.py),   [C++](Code/2586/2586.cpp)   | 简单         |             |             |      |
 
 
 
