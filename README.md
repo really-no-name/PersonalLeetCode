@@ -21,6 +21,7 @@
 | 0254 | [因子的组合](Code/0254/README.md)                 | [Python](Code/0254/0254_2.py)                              | 中等         | 递归          |             |      |
 | 0258 | [各位相加](Code/0258/README.md)                  | [Python](Code/0258/0258.py),   [C++](Code/0258/0258.cpp)   | 简单         |             |             |      |
 | 0263 | 丑数                                           | [Python](Code/0263/0263.py),   [C++](Code/0263/0263.cpp)   | 简单         |             |             |      |
+| 0266 | 回文排列                                         | [Python](Code/0266/0266.py),   [C++](Code/0266/0266.cpp)   | 简单         |             |             |      |
 | 0326 | [3 的幂](Code/0326/README.md)                  | [Python](Code/0326/0326.py),   [C++](Code/0326/0326.cpp)   | 简单         |             |             |      |
 | 0412 | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |             |             |      |
 | 0709 | [转换成小写字母](Code/0709/README.md)               | [Python](Code/0709/0709.py), [C++](Code/0709/0709.cpp)     | 简单         |             |             |      |
