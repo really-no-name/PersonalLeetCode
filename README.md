@@ -39,6 +39,7 @@
 | 0059    | 螺旋矩阵 II                                      | [Jupyter](Code/0059.ipynb)                                 | 中等         |             |             |      |
 | 0062    | 不同路径                                         | [Jupyter](Code/0062.ipynb)                                 | 中等         | 动态规划        |             |      |
 | 0063    | 不同路径 II                                      | [Jupyter](Code/0063.ipynb)                                 | 中等         | 动态规划        |             |      |
+| 0066    | 加一                                           | [Python](Code/0066/0066.py)                                | 简单         |             |             |      |
 | 0067    | 二进制求和                                        | [Jupyter](Code/0067)                                       | 简单         |             |             |      |
 | 0069    | x 的平方根                                       | [Jupyter](Code/0069)                                       | 中等         |             |             |      |
 | 0078    | 子集                                           | [Jupyter](Code/0078.ipynb)                                 | 中等         |             |             |      |
