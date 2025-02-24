@@ -45,6 +45,7 @@
 | 0078    | 子集                                           | [Jupyter](Code/0078.ipynb)                                 | 中等         |             |             |      |
 | 0080    | 删除有序数组中的重复项 II                               | [Jupyter](Code/0080.ipynb)                                 | 中等         |             |             |      |
 | 0081    | 搜索旋转排序数组 II                                  | [Jupyter](Code/0081.ipynb)                                 | 中等         |             |             |      |
+| 0088    | 合并两个有序数组                                     | [Python](Code/0088/0088.py)                                | 简单         |             |             |      |
 | 0090    | 子集 II                                        | [Jupyter](Code/0090.ipynb)                                 | 中等         |             |             |      |
 | 0118    | 杨辉三角                                         | [Jupyter](Code/0118.ipynb)                                 | 简单         |             |             |      |
 | 0119    | 杨辉三角 II                                      | [Jupyter](Code/0119.ipynb)                                 | 简单         |             |             |      |
