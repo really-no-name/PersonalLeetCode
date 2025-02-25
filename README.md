@@ -121,6 +121,7 @@
 | 2389    | [和有限的最长子序列](Code/2389/README.md)             | [Python](Code/2389/2389.py), [C++](Code/2389/2389.cpp)     |            |             |             |      |
 | 2413    | [最小偶倍数](Code/2413/README.md)                 | [Python](Code/2413/2413.py),   [C++](Code/2413/2413.cpp)   | 简单         |             |             |      |
 | 2469    | [温度转换](Code/2469/README.md)                  | [Python](Code/2469/2469.py),   [C++](Code/2469/2469.cpp)   | 简单         | 基础语法 & 数据类型 |             |      |
+| 2502    | 设计内存分配器                                      | [Python](Code/2502/2502.py)                                | 中等         |             |             |      |
 | 2529    | [正整数和负整数的最大计数](Code/2529/README.md)          | [Python](Code/2529/2529.py), [C++](Code/2529/2529.cpp)     |            |             |             |      |
 | 2563    | [统计公平数对的数目](Code/2563/README.md)             | [Python](Code/2563/2563.py)                                |            |             |             |      |
 | 2586    | [统计范围内的元音字符串数](Code/2586/README.md)          | [Python](Code/2586/2586.py),   [C++](Code/2586/2586.cpp)   | 简单         |             |             |      |
