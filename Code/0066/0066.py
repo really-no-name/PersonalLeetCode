@@ -29,9 +29,6 @@ class Solution:
         return ans[::-1]
 
 
-
 if __name__ == '__main__':
     solution = Solution()
     print(solution.plusOne([1, 2, 3]))
-
-
