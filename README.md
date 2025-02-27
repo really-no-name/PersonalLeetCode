@@ -135,6 +135,7 @@
 | 2563    | [统计公平数对的数目](Code/2563/README.md)             | [Python](Code/2563/2563.py)                                |            |             |             |      |
 | 2586    | [统计范围内的元音字符串数](Code/2586/README.md)          | [Python](Code/2586/2586.py),   [C++](Code/2586/2586.cpp)   | 简单         |             |             |      |
 | 2595    | [奇偶位数](Code/2595/README.md)                  | [Python](Code/2595/2595.py)                                |            |             |             |      |
+| 2841    | 几乎唯一子数组的最大和                                  | [Python](Code/2841/2841.py)                                | 中等         | 定长滑窗        |             |      |
 | 3242    | [设计相邻元素求和服务](Code/3242/README.md)            | [Python](Code/3242/3242.py)                                |            |             |             |      |
 | 3280    | 将日期转换为二进制表示                                  | [Jupyter](Code/3280.ipynb)                                 |            |             |             |      |
 | LCR 032 | 有效的字母异位词                                     | [Jupyter](Code/LCR_032.ipynb)                              |            |             |             |      |
