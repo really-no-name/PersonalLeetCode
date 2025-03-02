@@ -16,18 +16,51 @@
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # 使用滑动窗口方法
-        char_set = set()  # 用于存储当前窗口中的字符
-        left = 0  # 滑动窗口的左指针
-        max_length = 0  # 记录最长子串的长度
+        """
+        使用滑动窗口方法来解决最长无重复字符子串问题。
+        参数: s (str): 输入的字符串
+        返回: int: 最长无重复字符子串的长度
+        """
+        # 用于存储当前窗口中的字符，确保窗口内字符不重复
+        char_set = set()
 
-        for right in range(len(s)):  # 右指针遍历字符串
-            while s[right] in char_set:  # 如果字符重复，则缩小窗口
+        # 滑动窗口的左指针，表示当前窗口的起始位置
+        left = 0
+
+        # 记录最长子串的长度
+        max_length = 0
+
+        # 右指针遍历字符串
+        for right in range(len(s)):
+            print("----------------------------------------------------------------")
+            # 调试信息：打印当前窗口的左右指针位置
+            print(f"DEBUG: 当前窗口: left={left}, right={right}, 窗口内容: {s[left:right + 1]}")
+
+            # 如果当前字符 s[right] 已经在 char_set 中，说明字符重复
+            while s[right] in char_set:
+                # 调试信息：打印移除字符的过程
+                print(f"DEBUG: 字符 '{s[right]}' 重复，移除字符 '{s[left]}'")
+
+                # 缩小窗口：从左指针开始移除字符，直到移除重复字符
                 char_set.remove(s[left])
-                left += 1
-            char_set.add(s[right])  # 添加当前字符到集合中
-            max_length = max(max_length, right - left + 1)  # 更新最长长度
+                left += 1  # 左指针右移
 
+                # 调试信息：打印缩小后的窗口
+                print(f"DEBUG: 缩小后的窗口: left={left}, right={right}, 窗口内容: {s[left:right + 1]}")
+
+            # 将当前字符 s[right] 添加到 char_set 中
+            char_set.add(s[right])
+
+            # 调试信息：打印添加字符后的窗口
+            print(f"DEBUG: 添加字符 '{s[right]}' 后的窗口: {char_set}")
+
+            # 更新最大长度：当前窗口的长度为 right - left + 1
+            max_length = max(max_length, right - left + 1)
+
+            # 调试信息：打印当前的最大长度
+            print(f"DEBUG: 当前最大长度: {max_length}")
+
+        # 返回最终的最大长度
         return max_length
 
 
