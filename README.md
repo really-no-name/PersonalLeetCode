@@ -120,6 +120,7 @@
 | 1678    | 设计 Goal 解析器                                  | [Jupyter](Code/1678.ipynb)                                 |            |             |             |      |
 | 1688    | 比赛中的配对次数                                     | [Jupyter](Code/1688.ipynb)                                 |            |             |             |      |
 | 1694    | 重新格式化电话号码                                    | [Jupyter](Code/1694.ipynb)                                 |            |             |             |      |
+| 1695    | 删除子数组的最大得分                                   | [Python](Code/1695/1695.py)                                | 中等         | 不定长滑窗       |             |      |
 | 1706    | [球会落何处](Code/1706/README.md)                 | [Python](Code/1706/1706.py), [C++](Code/1706/1706.cpp)     |            |             |             |      |
 | 1732    | [找到最高海拔](Code/1732/README.md)                | [Python](Code/1732/1732.py), [C++](Code/1732/1732.cpp)     |            |             |             |      |
 | 1742    | [盒子中小球的最大数量](Code/1742/README.md)            | [Python](Code/1742/1742.py), [C++](Code/1742/1742.cpp)     |            |             |             |      |
