@@ -66,6 +66,7 @@
 | 0263    | 丑数                                           | [Python](Code/0263/0263.py),   [C++](Code/0263/0263.cpp)   | 简单         |             |             |      |
 | 0266    | 回文排列                                         | [Python](Code/0266/0266.py)                                | 简单         |             |             |      |
 | 0326    | [3 的幂](Code/0326/README.md)                  | [Python](Code/0326/0326.py),   [C++](Code/0326/0326.cpp)   | 简单         |             |             |      |
+| 0340    | [至多包含 K 个不同字符的最长子串](Code/0340/README.md)     | [Python](Code/0340/0340.py)                                |            |             |             |      |
 | 0350    | 两个数组的交集 II                                   | [Jupyter](Code/0350.ipynb)                                 | 简单         |             |             |      |
 | 0383    | 赎金信                                          | [Python](Code/0383/0383.py)                                | 简单         |             |             |      |
 | 0412    | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |             |             |      |
