@@ -6,10 +6,11 @@
 作者: Bolun Xu
 创建日期: 2025/3/4
 版本: 1.0
-描述: 每一个查询的最大美丽值 -- 超出时间限制。
-时间复杂度：
-空间复杂度：
+描述: 每一个查询的最大美丽值 -- 二分查找。
+时间复杂度： O(Nlogn+Mlogn)
+空间复杂度： O(1)
 """
+import bisect
 from typing import List
 
 
@@ -22,13 +23,18 @@ class Solution:
         :return: 返回一个长度与 queries 相同的数组 answer，其中 answer[j]是第 j 个查询的答案。
         """
         ans = [0] * len(queries)
+        items.sort(key=lambda x: x[0])
+        # print(f"DEBUG: {items}")
+        for i in range(1, len(items)):
+            items[i][1] = max(items[i - 1][1], items[i][1])
+        # print(f"DEBUG: {items}")
+
         for i, query in enumerate(queries):
             # print(f"DEBUG: {query}")
-            for item in items:
-                # print(f"DEBUG: {item} : {item[0]} and {item[1]}")
-                if item[0] <= query:
-                    ans[i] = max(ans[i], item[1])
+            j = bisect.bisect_right(items, query, key=lambda item: item[0])
+            ans[i] = items[j - 1][1] if j else 0
         return ans
+
 
 if __name__ == '__main__':
     solution = Solution()
