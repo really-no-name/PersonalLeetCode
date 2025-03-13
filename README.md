@@ -71,6 +71,7 @@
 | 0350    | 两个数组的交集 II                                   | [Jupyter](Code/0350.ipynb)                                 | 简单         |             |             |       |
 | 0383    | 赎金信                                          | [Python](Code/0383/0383.py)                                | 简单         |             |             |       |
 | 0412    | [Fizz Buzz](Code/0412/README.md)             | [Python](Code/0412/0412.py), [C++](Code/0412/0412.cpp)     | 简单         |             |             |       |
+| 0431    | [将 N 叉树编码为二叉树](Code/0431/README.md)          | [Python](Code/0431/0431.py)                                | 困难         | 二叉树         |             | VIP   |
 | 0475    | 供暖器                                          | [Python](Code/0475/0475_2.py)                              | 中等         |             |             |       |
 | 0487    | [最大连续1的个数 II](Code/0487/README.md)           | [Python](Code/0487/0487.py)                                | 中等         | 不定长滑窗       |             |       |
 | 0500    | 键盘行                                          | [Jupyter](Code/0500.ipynb)                                 | 简单         |             |             |       |
