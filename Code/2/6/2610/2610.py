@@ -18,12 +18,12 @@ class Solution:
     def findMatrix(self, nums: List[int]) -> List[List[int]]:
         ans = []
         cnt = Counter(nums)  # 统计每个元素的出现次数
-        # print(f"DEBUG: cnt = {cnt}")
+        print(f"DEBUG: cnt = {cnt}")
         while cnt:  # 还有剩余元素
             row = list(cnt)  # list(cnt)会将cnt中的 键 转换为一个列表
-            # print(f"DEBUG: row = {row}")
+            print(f"DEBUG: row = {row}")
             ans.append(row)
-            # print(f"DEBUG: ans = {ans}")
+            print(f"DEBUG: ans = {ans}")
             # cnt 中的每个元素的出现次数都减一
             for x in row:
                 cnt[x] -= 1
