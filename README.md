@@ -1,10 +1,12 @@
-## 此项目用于记录本人 LeetCode 相关程序
+# 此项目用于记录本人 LeetCode 相关程序
 
-## This project is for documenting my LeetCode related programmes.
+# This project is for documenting my LeetCode related programmes.
 
 **本项目仅用于个人学习及记录，禁止转载或公开分享相关题目内容，以避免对 LeetCode 造成侵权。**
 
 **This project is solely for personal learning and documentation purposes. Redistribution or public sharing of any related problem content is strictly prohibited to avoid infringement on LeetCode.**
+
+## 主站
 
 | #    | Title                                            | Solution                                                           | Difficulty | Tag         | Tag         | Note  |
 |:-----|:-------------------------------------------------|:-------------------------------------------------------------------|:-----------|:------------|:------------|-------|
@@ -35,6 +37,7 @@
 | 0035 | [搜索插入位置](Code/0/0/0035/README.md)                | [Python](Code/0/0/0035/0035_2.py),  [C++](Code/0/0/0035/0035.cpp)  | 简单         | 二分查找        |             |       |
 | 0039 | 组合总和                                             | [Jupyter](Code/0/0/0039.ipynb)                                     | 中等         |             |             |       |
 | 0040 | 组合总和 II                                          | [Jupyter](Code/0/0/0040.ipynb)                                     | 中等         |             |             | ?     |
+| 0042 | 接雨水                                              | [Python](Code/0/0/0042/0042.py)                                    | 困难         | 滑动窗口与双指针    | 单序列双指针      | ？！    |
 | 0046 | 全排列                                              | [Jupyter](Code/0/0/0046.ipynb)                                     | 中等         |             |             |       |
 | 0047 | 全排列 II                                           | [Jupyter](Code/0/0/0047.ipynb)                                     | 中等         |             |             |       |
 | 0054 | 螺旋矩阵                                             | [Jupyter](Code/0/0/0054.ipynb)                                     | 中等         |             |             |       |
@@ -250,7 +253,7 @@
 
 
 
-
+## LCR
 
 | #       | Title       | Solution                                | Difficulty | Tag      | Tag    | Note |
 |:--------|:------------|:----------------------------------------|:-----------|:---------|:-------|------|
@@ -261,9 +264,18 @@
 
 
 
-
+## LCP
 
 | #       | Title | Solution                              | Difficulty | Tag      | Tag    | Note |
 |:--------|:------|:--------------------------------------|:-----------|:---------|:-------|------|
 | LCP 028 | 采购方案  | [Python](Code/LCP/LCP_028/LCP_028.py) | 简单         | 滑动窗口与双指针 | 单序列双指针 |      |
 | LCP 068 | 美观的花束 | [Python](Code/LCP/LCP_068/LCP_068.py) | 中等         | 滑动窗口与双指针 | 不定长滑窗  |      |
+
+
+
+## 面试题
+
+| #     | Title       | Solution                                | Difficulty | Tag      | Tag    | Note |
+|:------|:------------|:----------------------------------------|:-----------|:---------|:-------|------|
+| 17.21 | 直方图的水量 | [Python](Code/LCR/0/LCR_009/LCR_009.py) | 中等         | 滑动窗口与双指针 | 不定长滑窗  | 0713 |
+| 
