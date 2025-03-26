@@ -5,7 +5,7 @@
 文件名: PersonalLeetCode 0658.py
 作者: Bolun Xu
 创建日期: 2025/3/4
-版本: 1.0
+版本: 1.0 -- 双指针
 描述: 找到 K 个最接近的元素。
 时间复杂度： O(Log(N))
 空间复杂度： O(1)
@@ -18,9 +18,6 @@ class Solution:
         """
         从数组中找到最靠近 x（两数之差最小）的 k 个数
         :param arr:  一个 排序好 的数组 arr
-        :param k:
-        :param x:
-        :return:
         """
         left = 0
         right = len(arr) - 1
