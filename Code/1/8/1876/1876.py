@@ -7,8 +7,8 @@
 创建日期: 2025/4/10
 版本: 1.0
 描述: 长度为三且各字符不同的子字符串。
-时间复杂度：
-空间复杂度：
+时间复杂度： O(N)
+空间复杂度： O(1)
 """
 class Solution:
     def countGoodSubstrings(self, s: str) -> int:
