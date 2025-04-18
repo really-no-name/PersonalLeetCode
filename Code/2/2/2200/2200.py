@@ -10,6 +10,7 @@
 时间复杂度： O(N^2)
 空间复杂度： O(N)
 """
+from typing import List
 
 
 class Solution:
