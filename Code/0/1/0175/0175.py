@@ -13,7 +13,7 @@ import pandas as pd
 
 def combine_two_tables(person: pd.DataFrame, address: pd.DataFrame) -> pd.DataFrame:
     # 左连接(保留df1中的所有key)
-    frame_a = pd.merge(person, address, on='personId', how='left')
+    frame_a = pd.merge(person, address, on='personId', how='left')  # 合并
     result = frame_a[['firstName', 'lastName', 'city', 'state']]
     return result
 

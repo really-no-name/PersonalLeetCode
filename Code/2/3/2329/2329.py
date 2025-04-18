@@ -14,7 +14,7 @@ import pandas as pd
 def product_sales_analysis(sales: pd.DataFrame, product: pd.DataFrame) -> pd.DataFrame:
     # print(sales)
     # print(product)
-    frame_a = sales.set_index('product_id').join(product.set_index('product_id'), how='inner')  # 表格拼接
+    frame_a = sales.set_index('product_id').join(product.set_index('product_id'), how='inner')  # 表格拼接合并
     frame_a['spending'] = frame_a['price'] * frame_a['quantity']
 
     result = frame_a.groupby('user_id')['spending'].sum().reset_index()  # 根据user_id分组并汇总spending值
