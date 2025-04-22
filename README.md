@@ -179,6 +179,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1068 | 产品销售分析 I                                 | [Python](Code/1/0/1068/1068.py) | 简单         |      |
 | 1141 | 查询近30天活跃用户数                              | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1148 | 文章浏览 I                                   | [Python](Code/1/1/1148/1148.py) | 简单         |      |
+| 1179 | 重新格式化部门表                                 | [Python](Code/1/1/1179/1179.py) | 简单         |      |
 | 1251 | 平均售价                                     | [Python](Code/1/2/1251/1251.py) | 简单         |      |
 | 1280 | 学生们参加各科测试的次数                             | [Python](Code/1/2/1280/1280.py) | 简单         |      |
 | 1378 | 使用唯一标识码替换员工ID                            | [Python](Code/1/3/1378/1378.py) | 简单         |      |
