@@ -174,6 +174,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0511 | 游戏玩法分析 I                                 | [Python](Code/0/5/0511/0511.py) | 简单         |      |
 | 0577 | 员工奖金                                     | [Python](Code/0/5/0577/0577.py) | 简单         |      |
 | 0595 | 大的国家                                     | [Python](Code/0/5/0595/0595.py) | 简单         |      |
+| 1050 | 合作过至少三次的演员和导演                            | [Python](Code/1/0/1050/1050.py) | 简单         |      |
 | 1068 | 产品销售分析 I                                 | [Python](Code/1/0/1068/1068.py) | 简单         |      |
 | 1141 | 查询近30天活跃用户数                              | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1148 | 文章浏览 I                                   | [Python](Code/1/1/1148/1148.py) | 简单         |      |
