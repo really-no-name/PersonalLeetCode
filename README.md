@@ -194,6 +194,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)        | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)    | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
 | 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)       | [Python](Code/2/3/2329/2329.py) | 简单         | VIP  |
+| 2356 | 每位教师所教授的科目种类的数量                          | [Python](Code/2/3/2356/2356.py) | 简单         |      |
 | 2837 | 总旅行距离                                    | [Python](Code/2/8/2837/2837.py) | 简单         |      |
 | 2878 | 获取 DataFrame 的大小                         | [Python](Code/2/8/2878/2878.py) | 简单         |      |
 | 2887 | 填充缺失值                                    | [Python](Code/2/8/2887/2887.py) | 简单         |      |
