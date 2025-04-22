@@ -186,6 +186,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1378 | 使用唯一标识码替换员工ID                            | [Python](Code/1/3/1378/1378.py) | 简单         |      |
 | 1407 | 排名靠前的旅行者                                 | [Python](Code/1/4/1407/1407.py) | 简单         |      |
 | 1484 | 按日期分组销售产品                                | [Python](Code/1/4/1484/1484.py) | 简单         |      |
+| 1517 | 查找拥有有效邮箱的用户                              | [Python](Code/1/5/1517/1517.py) | 简单         |      |
 | 1581 | 进店却未进行过交易的顾客                             | [Python](Code/1/5/1581/1581.py) | 简单         |      |
 | 1633 | 各赛事的用户注册率                                | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                            | [Python](Code/1/6/1661/1661.py) | 简单         |      |
