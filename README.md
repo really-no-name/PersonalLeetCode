@@ -177,6 +177,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0607 | 销售员                                      | [Python](Code/0/6/0607/0607.py) | 简单         |      |
 | 1050 | 合作过至少三次的演员和导演                            | [Python](Code/1/0/1050/1050.py) | 简单         |      |
 | 1068 | 产品销售分析 I                                 | [Python](Code/1/0/1068/1068.py) | 简单         |      |
+| 1084 | 销售分析 III                                 | [python](Code/1/0/1084/1084.py) | 简单         |      |
 | 1141 | 查询近30天活跃用户数                              | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1148 | 文章浏览 I                                   | [Python](Code/1/1/1148/1148.py) | 简单         |      |
 | 1179 | 重新格式化部门表                                 | [Python](Code/1/1/1179/1179.py) | 简单         |      |
