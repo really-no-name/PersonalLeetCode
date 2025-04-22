@@ -164,31 +164,32 @@ _**This project is for documenting my LeetCode related programmes.**_
 # §3 Pandas
 
 
-| #    | Title                                    | Solution                        | Difficulty | Tag    | Tag | Note |
-|:-----|:-----------------------------------------|:--------------------------------|:-----------|:-------|:----|------|
-| 0175 | 组合两个表                                    | [Python](Code/0/1/0175/0175.py) | 简单         | pandas |     |      |
-| 0181 | 超过经理收入的员工                                | [Python](Code/0/1/0181/0181.py) | 简答         | pandas |     |      |
-| 0197 | 上升的温度                                    | [Python](Code/0/1/0197/0197.py) | 简单         | pandas |     |      |
-| 0577 | 员工奖金                                     | [Python](Code/0/5/0577/0577.py) | 简单         | pandas |     |      |
-| 0595 | 大的国家                                     | [Python](Code/0/5/0595/0595.py) | 简单         | pandas |     |      |
-| 1068 | 产品销售分析 I                                 | [Python](Code/1/0/1068/1068.py) | 简单         | pandas |     |      |
-| 1141 | 查询近30天活跃用户数                              | [Python](Code/1/1/1141/1141.py) | 简单         | pandas |     |      |
-| 1148 | 文章浏览 I                                   | [Python](Code/1/1/1148/1148.py) | 简单         | pandas |     |      |
-| 1251 | 平均售价                                     | [Python](Code/1/2/1251/1251.py) | 简单         | pandas |     |      |
-| 1280 | 学生们参加各科测试的次数                             | [Python](Code/1/2/1280/1280.py) | 简单         | pandas |     |      |
-| 1378 | 使用唯一标识码替换员工ID                            | [Python](Code/1/3/1378/1378.py) | 简单         | pandas |     |      |
-| 1407 | 排名靠前的旅行者                                 | [Python](Code/1/4/1407/1407.py) | 简单         | pandas |     |      |
-| 1581 | 进店却未进行过交易的顾客                             | [Python](Code/1/5/1581/1581.py) | 简单         | pandas |     |      |
-| 1661 | 每台机器的进程平均运行时间                            | [Python](Code/1/6/1661/1661.py) | 简单         | pandas |     |      |
-| 1853 | [转换日期格式](Code/1/8/1853/README.md)        | [Python](Code/1/8/1853/1853.py) | 简单         | pandas |     | VIP  |
-| 2026 | [低质量的问题](Code/2/0/2026/README.md)        | [Python](Code/2/0/2026/2026.py) | 简单         | pandas |     | VIP  |
-| 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)    | [python](Code/2/2/2230/2230.py) | 简单         | pandas |     | VIP  |
-| 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)       | [Python](Code/2/3/2329/2329.py) | 简单         | pandas |     | VIP  |
-| 2837 | 总旅行距离                                    | [Python](Code/2/8/2837/2837.py) | 简单         | Pandas |     |      |
-| 2878 | 获取 DataFrame 的大小                         | [Python](Code/2/8/2878/2878.py) | 简单         | pandas |     |      |
-| 2887 | 填充缺失值                                    | [Python](Code/2/8/2887/2887.py) | 简单         | pandas |     |      |
-| 2985 | [计算订单平均商品数量](Code/2/9/2985/README.md)    | [Python](Code/2/9/2985/2985.py) | 简单         | pandas |     | VIP  |
-| 3051 | [寻找数据科学家职位的候选人](Code/3/0/3051/README.md) | [Python](Code/3/0/3051/3051.py) | 简单         | pandas |     | VIP  |
+| #    | Title                                    | Solution                        | Difficulty | Note |
+|:-----|:-----------------------------------------|:--------------------------------|:-----------|------|
+| 0175 | 组合两个表                                    | [Python](Code/0/1/0175/0175.py) | 简单         |      |
+| 0181 | 超过经理收入的员工                                | [Python](Code/0/1/0181/0181.py) | 简答         |      |
+| 0197 | 上升的温度                                    | [Python](Code/0/1/0197/0197.py) | 简单         |      |
+| 0511 | 游戏玩法分析 I                                 | [Python](Code/0/5/0511/0511.py) | 简单         |      |
+| 0577 | 员工奖金                                     | [Python](Code/0/5/0577/0577.py) | 简单         |      |
+| 0595 | 大的国家                                     | [Python](Code/0/5/0595/0595.py) | 简单         |      |
+| 1068 | 产品销售分析 I                                 | [Python](Code/1/0/1068/1068.py) | 简单         |      |
+| 1141 | 查询近30天活跃用户数                              | [Python](Code/1/1/1141/1141.py) | 简单         |      |
+| 1148 | 文章浏览 I                                   | [Python](Code/1/1/1148/1148.py) | 简单         |      |
+| 1251 | 平均售价                                     | [Python](Code/1/2/1251/1251.py) | 简单         |      |
+| 1280 | 学生们参加各科测试的次数                             | [Python](Code/1/2/1280/1280.py) | 简单         |      |
+| 1378 | 使用唯一标识码替换员工ID                            | [Python](Code/1/3/1378/1378.py) | 简单         |      |
+| 1407 | 排名靠前的旅行者                                 | [Python](Code/1/4/1407/1407.py) | 简单         |      |
+| 1581 | 进店却未进行过交易的顾客                             | [Python](Code/1/5/1581/1581.py) | 简单         |      |
+| 1661 | 每台机器的进程平均运行时间                            | [Python](Code/1/6/1661/1661.py) | 简单         |      |
+| 1853 | [转换日期格式](Code/1/8/1853/README.md)        | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
+| 2026 | [低质量的问题](Code/2/0/2026/README.md)        | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
+| 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)    | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
+| 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)       | [Python](Code/2/3/2329/2329.py) | 简单         | VIP  |
+| 2837 | 总旅行距离                                    | [Python](Code/2/8/2837/2837.py) | 简单         |      |
+| 2878 | 获取 DataFrame 的大小                         | [Python](Code/2/8/2878/2878.py) | 简单         |      |
+| 2887 | 填充缺失值                                    | [Python](Code/2/8/2887/2887.py) | 简单         |      |
+| 2985 | [计算订单平均商品数量](Code/2/9/2985/README.md)    | [Python](Code/2/9/2985/2985.py) | 简单         | VIP  |
+| 3051 | [寻找数据科学家职位的候选人](Code/3/0/3051/README.md) | [Python](Code/3/0/3051/3051.py) | 简单         | VIP  |
 
 
 # §4 其他
