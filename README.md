@@ -193,6 +193,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1705 | 项目员工 I                                   | [Python](Code/1/7/1705/1705.py) | 简单         |      |
 | 1789 | 员工的直属部门                                  | [Python](Code/1/7/1789/1789.py) | 简单         |      |
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)        | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
+| 1978 | 上级经理已离职的公司员工                             | [Python](Code/1/9/1978/1978.py) | 简单         |      |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)        | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)    | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
 | 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)       | [Python](Code/2/3/2329/2329.py) | 简单         | VIP  |
