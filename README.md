@@ -187,6 +187,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1581 | 进店却未进行过交易的顾客                             | [Python](Code/1/5/1581/1581.py) | 简单         |      |
 | 1633 | 各赛事的用户注册率                                | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                            | [Python](Code/1/6/1661/1661.py) | 简单         |      |
+| 1705 | 项目员工 I                                   | [Python](Code/1/7/1705/1705.py) | 简单         |      |
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)        | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)        | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)    | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
