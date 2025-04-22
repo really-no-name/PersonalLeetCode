@@ -182,6 +182,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1378 | 使用唯一标识码替换员工ID                            | [Python](Code/1/3/1378/1378.py) | 简单         |      |
 | 1407 | 排名靠前的旅行者                                 | [Python](Code/1/4/1407/1407.py) | 简单         |      |
 | 1581 | 进店却未进行过交易的顾客                             | [Python](Code/1/5/1581/1581.py) | 简单         |      |
+| 1633 | 各赛事的用户注册率                                | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                            | [Python](Code/1/6/1661/1661.py) | 简单         |      |
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)        | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)        | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
