@@ -169,6 +169,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0175 | 组合两个表                                    | [Python](Code/0/1/0175/0175.py) | 简单         |      |
 | 0181 | 超过经理收入的员工                                | [Python](Code/0/1/0181/0181.py) | 简单         |      |
 | 0182 | 查找重复的电子邮箱                                | [Python](Code/0/1/0182/0182.py) | 简单         |      |
+| 0183 | 从不订购的客户                                  | [Python](Code/0/1/0183/0183.py) | 简单         |      |
 | 0197 | 上升的温度                                    | [Python](Code/0/1/0197/0197.py) | 简单         |      |
 | 0511 | 游戏玩法分析 I                                 | [Python](Code/0/5/0511/0511.py) | 简单         |      |
 | 0577 | 员工奖金                                     | [Python](Code/0/5/0577/0577.py) | 简单         |      |
