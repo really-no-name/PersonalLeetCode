@@ -220,6 +220,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2084 | [为订单类型为 0 的客户删除类型为 1 的订单](Code/2/0/2084/README.md) | [Python](Code/2/0/2084/2084.py) | 中等         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)              | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
 | 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)                 | [Python](Code/2/3/2329/2329.py) | 简单         | VIP  |
+| 2339 | [联赛的所有比赛](Code/2/3/2339/README.md)                 | [Python](Code/2/3/2339/2339.py) | 简单         | VIP  |
 | 2356 | 每位教师所教授的科目种类的数量                                    | [Python](Code/2/3/2356/2356.py) | 简单         |      |
 | 2377 | [整理奥运表](Code/2/3/2377/README.md)                   | [Python](Code/2/3/2377/2377.py) | 简单         |      |
 | 2480 | [形成化学键](Code/2/4/2480/README.md)                   | [Python](Code/2/4/2480/2480.py) | 简单         | VIP  |
