@@ -238,6 +238,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3051 | [寻找数据科学家职位的候选人](Code/3/0/3051/README.md)           | [Python](Code/3/0/3051/3051.py) | 简单         | VIP  |
 | 3150 | [无效的推文 II](Code/3/1/3150/README.md)                | [Python](Code/3/1/3150/3150.py) | 简单         | VIP  |
 | 3204 | [按位用户权限分析](Code/3/2/3204/README.md)                | [Python](Code/3/2/3204/3204.py) | 中等         | VIP  |
+| 3293 | [计算产品最终价格](Code/3/2/3293/README.md)                | [Python](Code/3/2/3293/3293.py) | 中等         | VIP  |
 | 3338 | [第二高的薪水 II](Code/3/3/3338/README.md)               | [Python](Code/3/3/3338/3338.py) | 中等         | VIP  |
 | 3358 | [评分为 NULL 的图书](Code/3/3/3358/README.md)            | [Python](Code/3/3/3358/3358.py) | 简单         | VIP  |
 | 3475 | DNA 模式识别                                           | [Python](Code/3/4/3475/3475.py) | 中等         |      |
