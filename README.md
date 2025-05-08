@@ -232,10 +232,11 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2878 | 获取 DataFrame 的大小                                   | [Python](Code/2/8/2878/2878.py) | 简单         |      |
 | 2881 | 创建新列                                               | [python](Code/2/8/2881/2881.py) | 简单         |      |
 | 2882 | 删去重复的行                                             | [Python](Code/2/8/2882/2882.py) | 简单         |      |
-| 2885 | 重命名列                                               | [Python](Code/2/8/2885/885.py)  | 简单         |      |
+| 2885 | 重命名列                                               | [Python](Code/2/8/2885/2885.py) | 简单         |      |
 | 2886 | 改变数据类型                                             | [Python](Code/2/8/2886/2886.py) | 简单         |      |
 | 2887 | 填充缺失值                                              | [Python](Code/2/8/2887/2887.py) | 简单         |      |
 | 2888 | 重塑数据：连结                                            | [Python](Code/2/8/2888/2888.py) | 简单         |      |
+| 2889 | 数据重塑：透视                                            | [Python](Code/2/8/2889/2889.py) | 简单         |      |
 | 2890 | 重塑数据：融合                                            | [Python](Code/2/8/2890/2890.py) | 简单         |      |
 | 2985 | [计算订单平均商品数量](Code/2/9/2985/README.md)              | [Python](Code/2/9/2985/2985.py) | 简单         | VIP  |
 | 2989 | [班级表现](Code/2/9/2989/README.md)                    | [Python](Code/2/9/2989/2989.py) | 中等         | VIP  |

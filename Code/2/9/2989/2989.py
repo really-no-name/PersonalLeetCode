@@ -23,8 +23,12 @@ def class_performance(scores: pd.DataFrame) -> pd.DataFrame:
 
 
 if __name__ == '__main__':
-    data = [[309, 'Owen', 88, 47, 87], [321, 'Claire', 98, 95, 37], [338, 'Julian', 100, 64, 43],
-            [423, 'Peyton', 60, 44, 47], [896, 'David', 32, 37, 50], [235, 'Camila', 31, 53, 69]]
+    data = [[309, 'Owen', 88, 47, 87],
+            [321, 'Claire', 98, 95, 37],
+            [338, 'Julian', 100, 64, 43],
+            [423, 'Peyton', 60, 44, 47],
+            [896, 'David', 32, 37, 50],
+            [235, 'Camila', 31, 53, 69]]
     scores = pd.DataFrame(data,
                           columns=['student_id', 'student_name', 'assignment1', 'assignment2', 'assignment3']).astype(
         {'student_id': 'Int64', 'student_name': 'object', 'assignment1': 'Int64', 'assignment2': 'Int64',
