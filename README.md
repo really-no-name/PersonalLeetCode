@@ -193,6 +193,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1084 | 销售分析 III                                           | [python](Code/1/0/1084/1084.py) | 简单         |      |
 | 1141 | 查询近30天活跃用户数                                        | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1148 | 文章浏览 I                                             | [Python](Code/1/1/1148/1148.py) | 简单         |      |
+| 1173 | [即时食物配送 I](Code/1/1/1173/README.md)                | [Python](Code/1/1/1173/1173.py) | 简单         | VIP  |
 | 1179 | 重新格式化部门表                                           | [Python](Code/1/1/1179/1179.py) | 简单         |      |
 | 1211 | 查询结果的质量和占比                                         | [Python](Code/1/2/1211/1211.py) | 简单         |      |
 | 1251 | 平均售价                                               | [Python](Code/1/2/1251/1251.py) | 简单         |      |
