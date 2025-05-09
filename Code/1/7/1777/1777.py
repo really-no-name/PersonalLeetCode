@@ -12,11 +12,15 @@ import pandas as pd
 
 
 def products_price(products: pd.DataFrame) -> pd.DataFrame:
-    return 1
+    df = products.pivot(index="product_id", columns="store", values="price").reset_index()
+    return df
 
 
 if __name__ == '__main__':
-    data = [['0', 'store1', '95'], ['0', 'store3', '105'], ['0', 'store2', '100'], ['1', 'store1', '70'],
+    data = [['0', 'store1', '95'],
+            ['0', 'store3', '105'],
+            ['0', 'store2', '100'],
+            ['1', 'store1', '70'],
             ['1', 'store3', '80']]
     products = pd.DataFrame(data, columns=['product_id', 'store', 'price']).astype(
         {'product_id': 'Int64', 'store': 'category', 'price': 'Int64'})

@@ -39,7 +39,11 @@ def reformat_table(department: pd.DataFrame) -> pd.DataFrame:
 
 
 if __name__ == '__main__':
-    data = [[1, 8000, 'Jan'], [2, 9000, 'Jan'], [3, 10000, 'Feb'], [1, 7000, 'Feb'], [1, 6000, 'Mar']]
+    data = [[1, 8000, 'Jan'],
+            [2, 9000, 'Jan'],
+            [3, 10000, 'Feb'],
+            [1, 7000, 'Feb'],
+            [1, 6000, 'Mar']]
     department = pd.DataFrame(data, columns=['id', 'revenue', 'month']).astype(
         {'id': 'Int64', 'revenue': 'Int64', 'month': 'object'})
     print(reformat_table(department))
