@@ -244,6 +244,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2888 | 重塑数据：连结                                            | [Python](Code/2/8/2888/2888.py) | 简单         |      |
 | 2889 | 数据重塑：透视                                            | [Python](Code/2/8/2889/2889.py) | 简单         |      |
 | 2890 | 重塑数据：融合                                            | [Python](Code/2/8/2890/2890.py) | 简单         |      |
+| 2891 | 方法链                                                | [Python](Code/2/8/2891/2891.py) | 简单         |      |
 | 2985 | [计算订单平均商品数量](Code/2/9/2985/README.md)              | [Python](Code/2/9/2985/2985.py) | 简单         | VIP  |
 | 2989 | [班级表现](Code/2/9/2989/README.md)                    | [Python](Code/2/9/2989/2989.py) | 中等         | VIP  |
 | 2993 | [发生在周五的交易 I](Code/2/9/2993/README.md)              | [Python](Code/2/9/2993/2993.py) | 中等         | VIP  |

@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Code/0/0/0015/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/Code/0/1/0167/.idea" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
