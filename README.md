@@ -238,6 +238,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2837 | 总旅行距离                                              | [Python](Code/2/8/2837/2837.py) | 简单         |      |
 | 2877 | 从表中创建 DataFrame                                    | [Python](Code/2/8/2877/2877.py) | 简单         |      |
 | 2878 | 获取 DataFrame 的大小                                   | [Python](Code/2/8/2878/2878.py) | 简单         |      |
+| 2880 | 数据选取                                               | [Python](Code/2/8/2880/2880.py) | 简单         |      |
 | 2881 | 创建新列                                               | [python](Code/2/8/2881/2881.py) | 简单         |      |
 | 2882 | 删去重复的行                                             | [Python](Code/2/8/2882/2882.py) | 简单         |      |
 | 2885 | 重命名列                                               | [Python](Code/2/8/2885/2885.py) | 简单         |      |
