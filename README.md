@@ -193,6 +193,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1084 | 销售分析 III                                           | [python](Code/1/0/1084/1084.py) | 简单         |      |
 | 1141 | 查询近30天活跃用户数                                        | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1148 | 文章浏览 I                                             | [Python](Code/1/1/1148/1148.py) | 简单         |      |
+| 1173 | [即时食物配送 I](Code/1/1/1173/README.md)                | [Python](Code/1/1/1173/1173.py) | 简单         | VIP  |
 | 1179 | 重新格式化部门表                                           | [Python](Code/1/1/1179/1179.py) | 简单         |      |
 | 1211 | 查询结果的质量和占比                                         | [Python](Code/1/2/1211/1211.py) | 简单         |      |
 | 1251 | 平均售价                                               | [Python](Code/1/2/1251/1251.py) | 简单         |      |
@@ -237,6 +238,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2837 | 总旅行距离                                              | [Python](Code/2/8/2837/2837.py) | 简单         |      |
 | 2877 | 从表中创建 DataFrame                                    | [Python](Code/2/8/2877/2877.py) | 简单         |      |
 | 2878 | 获取 DataFrame 的大小                                   | [Python](Code/2/8/2878/2878.py) | 简单         |      |
+| 2880 | 数据选取                                               | [Python](Code/2/8/2880/2880.py) | 简单         |      |
 | 2881 | 创建新列                                               | [python](Code/2/8/2881/2881.py) | 简单         |      |
 | 2882 | 删去重复的行                                             | [Python](Code/2/8/2882/2882.py) | 简单         |      |
 | 2885 | 重命名列                                               | [Python](Code/2/8/2885/2885.py) | 简单         |      |
@@ -247,6 +249,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2890 | 重塑数据：融合                                            | [Python](Code/2/8/2890/2890.py) | 简单         |      |
 | 2891 | 方法链                                                | [Python](Code/2/8/2891/2891.py) | 简单         |      |
 | 2985 | [计算订单平均商品数量](Code/2/9/2985/README.md)              | [Python](Code/2/9/2985/2985.py) | 简单         | VIP  |
+| 2987 | [寻找房价最贵的城市](Code/2/9/2987/README.md)               | [Python](Code/2/9/2987/2987.py) | 简单         | VIP  |
 | 2989 | [班级表现](Code/2/9/2989/README.md)                    | [Python](Code/2/9/2989/2989.py) | 中等         | VIP  |
 | 2993 | [发生在周五的交易 I](Code/2/9/2993/README.md)              | [Python](Code/2/9/2993/2993.py) | 中等         | VIP  |
 | 3051 | [寻找数据科学家职位的候选人](Code/3/0/3051/README.md)           | [Python](Code/3/0/3051/3051.py) | 简单         | VIP  |
