@@ -2,40 +2,20 @@
 # -*- coding: utf-8 -*-
 
 """
-文件名: PersonalLeetCode 1084.py
+文件名: PersonalLeetCode 1082.py
 作者: Bolun Xu
-创建日期: 2025/4/22
+创建日期: 2025/5/9
 版本: 1.0
-描述: 销售分析 III。
-时间复杂度：
-空间复杂度：
+描述: 销售分析 I。
 """
 import pandas as pd
 
 
 def sales_analysis(product: pd.DataFrame, sales: pd.DataFrame) -> pd.DataFrame:
-    # 转换日期格式
-    sales['sale_date'] = pd.to_datetime(sales['sale_date'])
-
-    # 春季销售的产品
-    spring = sales[
-        (sales['sale_date'] >= '2019-01-01') &
-        (sales['sale_date'] <= '2019-03-31')
-        ]['product_id'].unique()
-
-    # 非春季销售的产品
-    non_spring = sales[
-        (sales['sale_date'] < '2019-01-01') |
-        (sales['sale_date'] > '2019-03-31')
-        ]['product_id'].unique()
-
-    # 仅在春季销售的产品
-    exclusive_spring = set(spring) - set(non_spring)
-
-    # 获取产品信息
-    result = product[product['product_id'].isin(exclusive_spring)]
-
-    return result[['product_id', 'product_name']]
+    df_sum = sales.groupby('seller_id')['price'].sum().reset_index()
+    df_sum['rank'] = df_sum['price'].rank(method='dense', ascending=False).astype(int)
+    df_filtered = df_sum[df_sum['rank'] == 1]
+    return df_filtered[['seller_id']]
 
 
 if __name__ == '__main__':
