@@ -182,7 +182,9 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0601 | 体育馆的人流量                                            | [Python](Code/0/6/0601/0601.py) | 困难         |      |
 | 0607 | 销售员                                                | [Python](Code/0/6/0607/0607.py) | 简单         |      |
 | 0610 | 判断三角形                                              | [Python](Code/0/6/0610/0610.py) | 简单         |      |
+| 0613 | [直线上的最近距离](Code/0/6/0613/README.md)                | [Python](Code/0/6/0613/0613.py) | 简单         | VIP  |
 | 0619 | 只出现一次的最大数字                                         | [Python](Code/0/6/0619/0619.py) | 简单         |      |
+| 0620 | 有趣的电影                                              | [Python](Code/0/6/0620/0620.py) | 简单         |      |
 | 0627 | 变更性别                                               | [Python](Code/0/6/0627/0627.py) | 简单         |      |
 | 1050 | 合作过至少三次的演员和导演                                      | [Python](Code/1/0/1050/1050.py) | 简单         |      |
 | 1068 | 产品销售分析 I                                           | [Python](Code/1/0/1068/1068.py) | 简单         |      |
@@ -203,8 +205,10 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1445 | [苹果和桔子](Code/1/4/1445/README.md)                   | [Python](Code/1/4/1445/1445.py) | 中等         | VIP  |
 | 1484 | 按日期分组销售产品                                          | [Python](Code/1/4/1484/1484.py) | 简单         |      |
 | 1517 | 查找拥有有效邮箱的用户                                        | [Python](Code/1/5/1517/1517.py) | 简单         | 正则   |
+| 1571 | [仓库经理](Code/1/5/1571/README.md)                    | [Python](Code/1/5/1571/1571.py) | 简单         | VIP  |
 | 1581 | 进店却未进行过交易的顾客                                       | [Python](Code/1/5/1581/1581.py) | 简单         |      |
 | 1587 | 银行账户概要 II                                          | [Python](Code/1/5/1587/1587.py) | 简单         |      |
+| 1623 | [三人国家代表队](Code/1/6/1623/README.md)                 | [Python](Code/1/6/1623/1623.py) | 简单         | VIP  |
 | 1633 | 各赛事的用户注册率                                          | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                                      | [Python](Code/1/6/1661/1661.py) | 简单         |      |
 | 1683 | 无效的推文                                              | [python](Code/1/6/1683/1683.py) | 简单         |      |
@@ -241,6 +245,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2890 | 重塑数据：融合                                            | [Python](Code/2/8/2890/2890.py) | 简单         |      |
 | 2985 | [计算订单平均商品数量](Code/2/9/2985/README.md)              | [Python](Code/2/9/2985/2985.py) | 简单         | VIP  |
 | 2989 | [班级表现](Code/2/9/2989/README.md)                    | [Python](Code/2/9/2989/2989.py) | 中等         | VIP  |
+| 2993 | [发生在周五的交易 I](Code/2/9/2993/README.md)              | [Python](Code/2/9/2993/2993.py) | 中等         | VIP  |
 | 3051 | [寻找数据科学家职位的候选人](Code/3/0/3051/README.md)           | [Python](Code/3/0/3051/3051.py) | 简单         | VIP  |
 | 3150 | [无效的推文 II](Code/3/1/3150/README.md)                | [Python](Code/3/1/3150/3150.py) | 简单         | VIP  |
 | 3204 | [按位用户权限分析](Code/3/2/3204/README.md)                | [Python](Code/3/2/3204/3204.py) | 中等         | VIP  |
@@ -249,6 +254,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3358 | [评分为 NULL 的图书](Code/3/3/3358/README.md)            | [Python](Code/3/3/3358/3358.py) | 简单         | VIP  |
 | 3384 | [球队传球成功的优势得分](Code/3/3/3384/README.md)             | [Python](Code/3/3/3384/3384.py) | 困难         | VIP  |
 | 3475 | DNA 模式识别                                           | [Python](Code/3/4/3475/3475.py) | 中等         |      |
+| 3497 | 分析订阅转化                                             | [Python](Code/3/4/3497/3497.py) | 中等         |      |
 
 
 # §4 其他
