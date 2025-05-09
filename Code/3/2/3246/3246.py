@@ -12,12 +12,18 @@ import pandas as pd
 
 
 def calculate_team_standings(team_stats: pd.DataFrame) -> pd.DataFrame:
-    return 1
+    team_stats['points'] = team_stats['wins'] * 3 + team_stats['draws']
+    team_stats['position'] = team_stats['points'].rank(method='average', ascending=False).astype(int)
+    df_sort = team_stats[['team_id', 'team_name', 'points', 'position']].sort_values(by=['points', 'team_name'], ascending=[False, True])
+    return df_sort
 
 
 if __name__ == '__main__':
-    data = [[1, 'Manchester City', 10, 6, 2, 2], [2, 'Liverpool', 10, 6, 2, 2], [3, 'Chelsea', 10, 5, 3, 2],
-            [4, 'Arsenal', 10, 4, 4, 2], [5, 'Tottenham', 10, 3, 5, 2]]
+    data = [[1, 'Manchester City', 10, 6, 2, 2],
+            [2, 'Liverpool', 10, 6, 2, 2],
+            [3, 'Chelsea', 10, 5, 3, 2],
+            [4, 'Arsenal', 10, 4, 4, 2],
+            [5, 'Tottenham', 10, 3, 5, 2]]
     team_stats = pd.DataFrame(data,
                               columns=["team_id", "team_name", "matches_played", "wins", "draws", "losses"]).astype(
         {"team_id": "int", "team_name": "string", "matches_played": "int", "wins": "int", "draws": "int",

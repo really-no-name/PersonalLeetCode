@@ -216,7 +216,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1705 | 项目员工 I                                             | [Python](Code/1/7/1705/1705.py) | 简单         |      |
 | 1731 | 每位经理的下属员工数量                                        | [Python](Code/1/7/1731/1731.py) | 简单         |      |
 | 1741 | 查找每个员工花费的总时间                                       | [Python](Code/1/7/1741/1741.py) | 简单         |      |
-| 1777 | [每家商店的产品价格](Code/1/7/1777/README.md)               |                                 | 简单         | VIP  |
+| 1777 | [每家商店的产品价格](Code/1/7/1777/README.md)               | [Python](Code/1/7/1777/1777.py) | 简单         | VIP  |
 | 1789 | 员工的直属部门                                            | [Python](Code/1/7/1789/1789.py) | 简单         |      |
 | 1795 | 每个产品在不同商店的价格                                       | [Python](Code/1/7/1795/1795.py) | 简单         |      |
 | 1821 | [寻找今年具有正收入的客户](Code/1/8/1821/README.md)            | [Python](Code/1/8/1821/1821.py) | 简单         | VIP  |
@@ -250,7 +250,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3051 | [寻找数据科学家职位的候选人](Code/3/0/3051/README.md)           | [Python](Code/3/0/3051/3051.py) | 简单         | VIP  |
 | 3150 | [无效的推文 II](Code/3/1/3150/README.md)                | [Python](Code/3/1/3150/3150.py) | 简单         | VIP  |
 | 3204 | [按位用户权限分析](Code/3/2/3204/README.md)                | [Python](Code/3/2/3204/3204.py) | 中等         | VIP  |
-| 3246 | [英超积分榜排名](Code/3/2/3246/README.md)                 |                                 | 简单         | VIP  |
+| 3246 | [英超积分榜排名](Code/3/2/3246/README.md)                 | [Python](Code/3/2/3246/3246.py) | 简单         | VIP  |
 | 3293 | [计算产品最终价格](Code/3/2/3293/README.md)                | [Python](Code/3/2/3293/3293.py) | 中等         | VIP  |
 | 3338 | [第二高的薪水 II](Code/3/3/3338/README.md)               | [Python](Code/3/3/3338/3338.py) | 中等         | VIP  |
 | 3358 | [评分为 NULL 的图书](Code/3/3/3358/README.md)            | [Python](Code/3/3/3358/3358.py) | 简单         | VIP  |
