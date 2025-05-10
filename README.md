@@ -204,12 +204,12 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1378 | 使用唯一标识码替换员工ID                                      | [Python](Code/1/3/1378/1378.py) | 简单         |      |
 | 1393 | 股票的资本损益                                            | [Python](Code/1/3/1393/1393.py) | 中等         |      |
 | 1407 | 排名靠前的旅行者                                           | [Python](Code/1/4/1407/1407.py) | 简单         |      |
-| 1421 | [净现值查询](Code/1/4/1421/README.md)                   |                                 | 简单         | VIP  |
+| 1421 | [净现值查询](Code/1/4/1421/README.md)                   | [Python](Code/1/4/1421/1421.py) | 简单         | VIP  |
 | 1445 | [苹果和桔子](Code/1/4/1445/README.md)                   | [Python](Code/1/4/1445/1445.py) | 中等         | VIP  |
 | 1484 | 按日期分组销售产品                                          | [Python](Code/1/4/1484/1484.py) | 简单         |      |
 | 1517 | 查找拥有有效邮箱的用户                                        | [Python](Code/1/5/1517/1517.py) | 简单         | 正则   |
 | 1571 | [仓库经理](Code/1/5/1571/README.md)                    | [Python](Code/1/5/1571/1571.py) | 简单         | VIP  |
-| 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)             |                                 | 简单         | VIP  |
+| 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)             | [Python](Code/1/5/1565/1565.py) | 简单         | VIP  |
 | 1581 | 进店却未进行过交易的顾客                                       | [Python](Code/1/5/1581/1581.py) | 简单         |      |
 | 1587 | 银行账户概要 II                                          | [Python](Code/1/5/1587/1587.py) | 简单         |      |
 | 1623 | [三人国家代表队](Code/1/6/1623/README.md)                 | [Python](Code/1/6/1623/1623.py) | 简单         | VIP  |
@@ -228,7 +228,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1978 | 上级经理已离职的公司员工                                       | [Python](Code/1/9/1978/1978.py) | 简单         |      |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)                  | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
 | 2066 | [账户余额](Code/2/0/2066/README.md)                    | [Python](Code/2/0/2066/2066.py) | 中等         | VIP  |
-| 2082 | [富有客户的数量](Code/2/0/2082/README.md)                 |                                 | 简单         | VIP  |
+| 2082 | [富有客户的数量](Code/2/0/2082/README.md)                 | [Python](Code/2/0/2082/2082.py) | 简单         | VIP  |
 | 2084 | [为订单类型为 0 的客户删除类型为 1 的订单](Code/2/0/2084/README.md) | [Python](Code/2/0/2084/2084.py) | 中等         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)              | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
 | 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)                 | [Python](Code/2/3/2329/2329.py) | 简单         | VIP  |
@@ -238,8 +238,8 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2480 | [形成化学键](Code/2/4/2480/README.md)                   | [Python](Code/2/4/2480/2480.py) | 简单         | VIP  |
 | 2504 | [把名字和职业联系起来](Code/2/5/2504/README.md)              | [Python](Code/2/5/2504/2504.py) | 简单         | VIP  |
 | 2687 | [自行车的最后使用时间](Code/2/6/2687/README.md)              | [Python](Code/2/6/2687/2687.py) | 简单         | VIP  |
-| 2668 | [查询员工当前薪水](Code/2/6/2668/README.md)                |                                 | 简单         | VIP  |
-| 2669 | [统计 Spotify 排行榜上艺术家出现次数](Code/2/6/2669/README.md)  |                                 | 简单         | VIP  |
+| 2668 | [查询员工当前薪水](Code/2/6/2668/README.md)                | [Python](Code/2/6/2668/2668.py) | 简单         | VIP  |
+| 2669 | [统计 Spotify 排行榜上艺术家出现次数](Code/2/6/2669/README.md)  | [Python](Code/2/6/2669/2669.py) | 简单         | VIP  |
 | 2837 | 总旅行距离                                              | [Python](Code/2/8/2837/2837.py) | 简单         |      |
 | 2877 | 从表中创建 DataFrame                                    | [Python](Code/2/8/2877/2877.py) | 简单         |      |
 | 2878 | 获取 DataFrame 的大小                                   | [Python](Code/2/8/2878/2878.py) | 简单         |      |
