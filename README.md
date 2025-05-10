@@ -519,6 +519,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2843 | 统计对称整数的数目                                    | [Python](Code/2/8/2843/2843.py)                                    | 简单         |             |             |       |
 | 2873 | 有序三元组中的最大值 I                                 | [Python](Code/2/8/2873/2873.py)                                    | 简单         |             |             |       |
 | 2874 | 有序三元组中的最大值 II                                | [Python](Code/2/8/2874/2874.py)                                    | 中等         |             |             |       |
+| 2918 | 数组的最小相等和                                     | [Python](Code/2/9/2918/2918.py)                                    | 简单         |             |             |       |
 | 2946 | 循环移位后的矩阵相似检查                                 | [Python](Code/2/9/2946/2946.py)                                    | 简单         |             |             |       |
 | 2996 | 大于等于顺序前缀和的最小缺失整数                             | [Python](Code/2/9/2996/2996.py)                                    | 简单         |             |             |       |
 | 3033 | 修改矩阵                                         | [Python](Code/3/0/3033/3033.py)                                    | 简单         |             |             |       |
