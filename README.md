@@ -229,6 +229,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1978 | 上级经理已离职的公司员工                                       | [Python](Code/1/9/1978/1978.py) | 简单         |      |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)                  | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
 | 2066 | [账户余额](Code/2/0/2066/README.md)                    | [Python](Code/2/0/2066/2066.py) | 中等         | VIP  |
+| 2072 | [赢得比赛的大学](Code/2/0/2072/README.md)                 | [Python](Code/2/0/2072/2072.py) | 简单         | VIP  |
 | 2082 | [富有客户的数量](Code/2/0/2082/README.md)                 | [Python](Code/2/0/2082/2082.py) | 简单         | VIP  |
 | 2084 | [为订单类型为 0 的客户删除类型为 1 的订单](Code/2/0/2084/README.md) | [Python](Code/2/0/2084/2084.py) | 中等         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)              | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
