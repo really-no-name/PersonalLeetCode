@@ -214,6 +214,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1445 | [苹果和桔子](Code/1/4/1445/README.md)                   | [Python](Code/1/4/1445/1445.py) | 中等         | VIP  |
 | 1484 | 按日期分组销售产品                                          | [Python](Code/1/4/1484/1484.py) | 简单         |      |
 | 1517 | 查找拥有有效邮箱的用户                                        | [Python](Code/1/5/1517/1517.py) | 简单         | 正则   |
+| 1527 | 患某种疾病的患者                                           | [Python](Code/1/5/1527/1527.py) | 简单         | 正则   |
 | 1571 | [仓库经理](Code/1/5/1571/README.md)                    | [Python](Code/1/5/1571/1571.py) | 简单         | VIP  |
 | 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)             | [Python](Code/1/5/1565/1565.py) | 简单         | VIP  |
 | 1581 | 进店却未进行过交易的顾客                                       | [Python](Code/1/5/1581/1581.py) | 简单         |      |
