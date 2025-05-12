@@ -175,6 +175,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0185 | 部门工资前三高的所有员工                                       | [Python](Code/0/1/0185/0185.py) | 困难         |      |
 | 0197 | 上升的温度                                              | [Python](Code/0/1/0197/0197.py) | 简单         |      |
 | 0511 | 游戏玩法分析 I                                           | [Python](Code/0/5/0511/0511.py) | 简单         |      |
+| 0512 | [游戏玩法分析 II](Code/0/5/0512/README.md)               | [Python](Code/0/5/0512/0512.py) | 简单         | VIP  |
 | 0550 | 游戏玩法分析 IV                                          | [Python](Code/0/5/0550/0550.py) | 中等         |      |
 | 0570 | 至少有5名直接下属的经理                                       | [Python](Code/0/5/0570/0570.py) | 中等         |      |
 | 0577 | 员工奖金                                               | [Python](Code/0/5/0577/0577.py) | 简单         |      |
