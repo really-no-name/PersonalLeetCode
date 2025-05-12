@@ -179,6 +179,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0550 | 游戏玩法分析 IV                                          | [Python](Code/0/5/0550/0550.py) | 中等         |      |
 | 0570 | 至少有5名直接下属的经理                                       | [Python](Code/0/5/0570/0570.py) | 中等         |      |
 | 0577 | 员工奖金                                               | [Python](Code/0/5/0577/0577.py) | 简单         |      |
+| 0586 | 订单最多的客户                                            | [Python](Code/0/5/0586/0586.py) | 简单         |      |
 | 0595 | 大的国家                                               | [Python](Code/0/5/0595/0595.py) | 简单         |      |
 | 0601 | 体育馆的人流量                                            | [Python](Code/0/6/0601/0601.py) | 困难         |      |
 | 0607 | 销售员                                                | [Python](Code/0/6/0607/0607.py) | 简单         |      |
