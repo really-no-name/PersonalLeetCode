@@ -184,6 +184,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0596 | 超过 5 名学生的课                                         | [Python](Code/0/5/0596/0596.py) | 简单         |      |
 | 0597 | [好友申请 I：总体通过率](Code/0/5/0597/README.md)            | [Python](Code/0/5/0597/0597.py) | 简单         | VIP  |
 | 0601 | 体育馆的人流量                                            | [Python](Code/0/6/0601/0601.py) | 困难         |      |
+| 0603 | [连续空余座位](Code/0/6/0603/README.md)                  | [Python](Code/0/6/0603/0603.py) | 简单         | VIP  |
 | 0607 | 销售员                                                | [Python](Code/0/6/0607/0607.py) | 简单         |      |
 | 0610 | 判断三角形                                              | [Python](Code/0/6/0610/0610.py) | 简单         |      |
 | 0613 | [直线上的最近距离](Code/0/6/0613/README.md)                | [Python](Code/0/6/0613/0613.py) | 简单         | VIP  |
