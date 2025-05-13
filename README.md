@@ -194,6 +194,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1050 | 合作过至少三次的演员和导演                                      | [Python](Code/1/0/1050/1050.py) | 简单         |      |
 | 1068 | 产品销售分析 I                                           | [Python](Code/1/0/1068/1068.py) | 简单         |      |
 | 1069 | [产品销售分析 II](Code/1/0/1069/README.md)               | [Python](Code/1/0/1069/1069.py) | 简单         | VIP  |
+| 1076 | [项目员工II](Code/1/0/1076/README.md)                  | [Python](Code/1/0/1076/1076.py) | 简单         | VIP  |
 | 1082 | [销售分析 I](Code/1/0/1082/README.md)                  | [Python](Code/1/0/1082/1082.py) | 简单         | VIP  |
 | 1083 | [销售分析 II](Code/1/0/1083/README.md)                 | [Python](Code/1/0/1083/1083.py) | 简单         | VIP  |
 | 1084 | 销售分析 III                                           | [python](Code/1/0/1084/1084.py) | 简单         |      |
