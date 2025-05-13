@@ -226,6 +226,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1683 | 无效的推文                                              | [python](Code/1/6/1683/1683.py) | 简单         |      |
 | 1693 | 每天的领导和合伙人                                          | [Python](Code/1/6/1693/1693.py) | 简单         |      |
 | 1705 | 项目员工 I                                             | [Python](Code/1/7/1705/1705.py) | 简单         |      |
+| 1729 | 求关注者的数量                                            | [Python](Code/1/7/1729/1729.py) | 简单         |      |
 | 1731 | 每位经理的下属员工数量                                        | [Python](Code/1/7/1731/1731.py) | 简单         |      |
 | 1741 | 查找每个员工花费的总时间                                       | [Python](Code/1/7/1741/1741.py) | 简单         |      |
 | 1777 | [每家商店的产品价格](Code/1/7/1777/README.md)               | [Python](Code/1/7/1777/1777.py) | 简单         | VIP  |
