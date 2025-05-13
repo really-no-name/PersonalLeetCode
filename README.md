@@ -234,6 +234,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1795 | 每个产品在不同商店的价格                                       | [Python](Code/1/7/1795/1795.py) | 简单         |      |
 | 1821 | [寻找今年具有正收入的客户](Code/1/8/1821/README.md)            | [Python](Code/1/8/1821/1821.py) | 简单         | VIP  |
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)                  | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
+| 1873 | 计算特殊奖金                                             | [Python](Code/1/8/1873/1873.py) | 简单         |      |
 | 1890 | 2020年最后一次登录                                        | [Python](Code/1/8/1890/1890.py) | 简单         |      |
 | 1965 | 丢失信息的雇员                                            | [Python](Code/1/9/1965/1965.py) | 简单         |      |
 | 1978 | 上级经理已离职的公司员工                                       | [Python](Code/1/9/1978/1978.py) | 简单         |      |
