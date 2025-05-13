@@ -259,6 +259,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2880 | 数据选取                                               | [Python](Code/2/8/2880/2880.py) | 简单         |      |
 | 2881 | 创建新列                                               | [python](Code/2/8/2881/2881.py) | 简单         |      |
 | 2882 | 删去重复的行                                             | [Python](Code/2/8/2882/2882.py) | 简单         |      |
+| 2883 | 删去丢失的数据                                            | [Python](Code/2/8/2883/2883.py) | 简单         |      |
 | 2885 | 重命名列                                               | [Python](Code/2/8/2885/2885.py) | 简单         |      |
 | 2886 | 改变数据类型                                             | [Python](Code/2/8/2886/2886.py) | 简单         |      |
 | 2887 | 填充缺失值                                              | [Python](Code/2/8/2887/2887.py) | 简单         |      |
