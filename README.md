@@ -551,6 +551,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3242 | [设计相邻元素求和服务](Code/3/2/3242/README.md)        | [Python](Code/3/2/3242/3242.py)                                    |            |             |             |       |
 | 3272 | 统计好整数的数目                                     | [Python](Code/3/2/3272/3272.py)                                    | 困难         |             |             | ?     |
 | 3280 | 将日期转换为二进制表示                                  | [Jupyter](Code/3/2/3280.ipynb)                                     |            |             |             |       |
+| 3335 | 字符串转换后的长度 I                                  | [Python](Code/3/3/3335/3335.py)                                    | 中等         |             |             |       |
 | 3340 | 检查平衡字符串                                      | [Python](Code/3/3/3340/3340.py)                                    | 简单         | 字符串         |             |       |
 | 3375 | 使数组的值全部为 K 的最少操作次数                           | [Python](Code/3/3/3375/3375.py)                                    | 简单         | 脑筋急转弯       |             |       |
 | 3392 | 统计符合条件长度为 3 的子数组数目                           | [Python](Code/3/3/3392/3392.py)                                    | 简单         |             |             |       |
