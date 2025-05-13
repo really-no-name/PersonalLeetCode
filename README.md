@@ -194,10 +194,13 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1050 | 合作过至少三次的演员和导演                                      | [Python](Code/1/0/1050/1050.py) | 简单         |      |
 | 1068 | 产品销售分析 I                                           | [Python](Code/1/0/1068/1068.py) | 简单         |      |
 | 1069 | [产品销售分析 II](Code/1/0/1069/README.md)               | [Python](Code/1/0/1069/1069.py) | 简单         | VIP  |
+| 1076 | [项目员工II](Code/1/0/1076/README.md)                  | [Python](Code/1/0/1076/1076.py) | 简单         | VIP  |
 | 1082 | [销售分析 I](Code/1/0/1082/README.md)                  | [Python](Code/1/0/1082/1082.py) | 简单         | VIP  |
 | 1083 | [销售分析 II](Code/1/0/1083/README.md)                 | [Python](Code/1/0/1083/1083.py) | 简单         | VIP  |
 | 1084 | 销售分析 III                                           | [python](Code/1/0/1084/1084.py) | 简单         |      |
+| 1113 | [报告的记录](Code/1/1/1113/README.md)                   | [Python](Code/1/1/1113/1113.py) | 简单         | VIP  |
 | 1141 | 查询近30天活跃用户数                                        | [Python](Code/1/1/1141/1141.py) | 简单         |      |
+| 1142 | [过去30天的用户活动 II](Code/1/1/1142/README.md)           | [Python](Code/1/1/1142/1142.py) | 简单         | VIP  |
 | 1148 | 文章浏览 I                                             | [Python](Code/1/1/1148/1148.py) | 简单         |      |
 | 1173 | [即时食物配送 I](Code/1/1/1173/README.md)                | [Python](Code/1/1/1173/1173.py) | 简单         | VIP  |
 | 1179 | 重新格式化部门表                                           | [Python](Code/1/1/1179/1179.py) | 简单         |      |
@@ -226,6 +229,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1683 | 无效的推文                                              | [python](Code/1/6/1683/1683.py) | 简单         |      |
 | 1693 | 每天的领导和合伙人                                          | [Python](Code/1/6/1693/1693.py) | 简单         |      |
 | 1705 | 项目员工 I                                             | [Python](Code/1/7/1705/1705.py) | 简单         |      |
+| 1729 | 求关注者的数量                                            | [Python](Code/1/7/1729/1729.py) | 简单         |      |
 | 1731 | 每位经理的下属员工数量                                        | [Python](Code/1/7/1731/1731.py) | 简单         |      |
 | 1741 | 查找每个员工花费的总时间                                       | [Python](Code/1/7/1741/1741.py) | 简单         |      |
 | 1777 | [每家商店的产品价格](Code/1/7/1777/README.md)               | [Python](Code/1/7/1777/1777.py) | 简单         | VIP  |
@@ -233,6 +237,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1795 | 每个产品在不同商店的价格                                       | [Python](Code/1/7/1795/1795.py) | 简单         |      |
 | 1821 | [寻找今年具有正收入的客户](Code/1/8/1821/README.md)            | [Python](Code/1/8/1821/1821.py) | 简单         | VIP  |
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)                  | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
+| 1873 | 计算特殊奖金                                             | [Python](Code/1/8/1873/1873.py) | 简单         |      |
 | 1890 | 2020年最后一次登录                                        | [Python](Code/1/8/1890/1890.py) | 简单         |      |
 | 1965 | 丢失信息的雇员                                            | [Python](Code/1/9/1965/1965.py) | 简单         |      |
 | 1978 | 上级经理已离职的公司员工                                       | [Python](Code/1/9/1978/1978.py) | 简单         |      |
@@ -257,6 +262,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2880 | 数据选取                                               | [Python](Code/2/8/2880/2880.py) | 简单         |      |
 | 2881 | 创建新列                                               | [python](Code/2/8/2881/2881.py) | 简单         |      |
 | 2882 | 删去重复的行                                             | [Python](Code/2/8/2882/2882.py) | 简单         |      |
+| 2883 | 删去丢失的数据                                            | [Python](Code/2/8/2883/2883.py) | 简单         |      |
 | 2885 | 重命名列                                               | [Python](Code/2/8/2885/2885.py) | 简单         |      |
 | 2886 | 改变数据类型                                             | [Python](Code/2/8/2886/2886.py) | 简单         |      |
 | 2887 | 填充缺失值                                              | [Python](Code/2/8/2887/2887.py) | 简单         |      |
@@ -278,6 +284,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3338 | [第二高的薪水 II](Code/3/3/3338/README.md)               | [Python](Code/3/3/3338/3338.py) | 中等         | VIP  |
 | 3358 | [评分为 NULL 的图书](Code/3/3/3358/README.md)            | [Python](Code/3/3/3358/3358.py) | 简单         | VIP  |
 | 3384 | [球队传球成功的优势得分](Code/3/3/3384/README.md)             | [Python](Code/3/3/3384/3384.py) | 困难         | VIP  |
+| 3436 | 查找合法邮箱                                             | [Python](Code/3/4/3436/3436.py) | 简单         |      |
 | 3465 | 查找具有有效序列号的产品                                       | [Python](Code/3/4/3465/3465.py) | 简单         |      |
 | 3475 | DNA 模式识别                                           | [Python](Code/3/4/3475/3475.py) | 中等         |      |
 | 3497 | 分析订阅转化                                             | [Python](Code/3/4/3497/3497.py) | 中等         |      |
@@ -547,6 +554,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3242 | [设计相邻元素求和服务](Code/3/2/3242/README.md)        | [Python](Code/3/2/3242/3242.py)                                    |            |             |             |       |
 | 3272 | 统计好整数的数目                                     | [Python](Code/3/2/3272/3272.py)                                    | 困难         |             |             | ?     |
 | 3280 | 将日期转换为二进制表示                                  | [Jupyter](Code/3/2/3280.ipynb)                                     |            |             |             |       |
+| 3335 | 字符串转换后的长度 I                                  | [Python](Code/3/3/3335/3335.py)                                    | 中等         |             |             |       |
 | 3340 | 检查平衡字符串                                      | [Python](Code/3/3/3340/3340.py)                                    | 简单         | 字符串         |             |       |
 | 3375 | 使数组的值全部为 K 的最少操作次数                           | [Python](Code/3/3/3375/3375.py)                                    | 简单         | 脑筋急转弯       |             |       |
 | 3392 | 统计符合条件长度为 3 的子数组数目                           | [Python](Code/3/3/3392/3392.py)                                    | 简单         |             |             |       |
