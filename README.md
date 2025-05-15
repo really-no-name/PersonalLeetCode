@@ -205,6 +205,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1173 | [即时食物配送 I](Code/1/1/1173/README.md)                | [Python](Code/1/1/1173/1173.py) | 简单         | VIP  |
 | 1179 | 重新格式化部门表                                           | [Python](Code/1/1/1179/1179.py) | 简单         |      |
 | 1211 | 查询结果的质量和占比                                         | [Python](Code/1/2/1211/1211.py) | 简单         |      |
+| 1214 | [每个帖子的评论数](Code/1/2/1214/README.md)                | [Python](Code/1/2/1214/1214.py) | 简单         | VIP  |
 | 1251 | 平均售价                                               | [Python](Code/1/2/1251/1251.py) | 简单         |      |
 | 1280 | 学生们参加各科测试的次数                                       | [Python](Code/1/2/1280/1280.py) | 简单         |      |
 | 1303 | [求团队人数](Code/1/3/1303/README.md)                   | [Python](Code/1/3/1303/1303.py) | 简单         | VIP  |
