@@ -1,6 +1,6 @@
 #  [每个帖子的评论数](https://leetcode.cn/problems/number-of-comments-per-post)
 
-表 Submissions ：
+表 `Submissions` ：
 > ```
 > +---------------+----------+
 > | 列名          | 类型     |
