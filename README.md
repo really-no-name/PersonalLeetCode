@@ -210,6 +210,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1280 | 学生们参加各科测试的次数                                       | [Python](Code/1/2/1280/1280.py) | 简单         |      |
 | 1294 | [不同国家的天气类型](Code/1/2/1294/README.md)               | [Python](Code/1/2/1294/1294.py) | 简单         | VIP  |
 | 1303 | [求团队人数](Code/1/3/1303/README.md)                   | [Python](Code/1/3/1303/1303.py) | 简单         | VIP  |
+| 1322 | [广告效果](Code/1/3/1322/README.md)                    | [Python](Code/1/3/1322/1322.py) | 简单         | VIP  |
 | 1327 | 列出指定时间段内所有的下单产品                                    | [Python](Code/1/3/1327/1327.py) | 简单         |      |
 | 1350 | [院系无效的学生](Code/1/3/1350/README.md)                 | [Python](Code/1/3/1350/1350.py) | 简单         | VIP  |
 | 1378 | 使用唯一标识码替换员工ID                                      | [Python](Code/1/3/1378/1378.py) | 简单         |      |
