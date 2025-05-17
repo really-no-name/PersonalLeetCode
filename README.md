@@ -157,7 +157,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2594 | 修车的最少时间                                          | [Python](Code/2/5/2594/2594.py)                                    | 中等         | 二分答案 |          |
 | 2702 | [使数字变为非正数的最小操作次数](Code/2/7/2702/README.md)       | [Python](Code/2/7/2702/2702.py)                                    | 困难         |      | VIP      |
 | 2982 | 找出出现至少三次的最长特殊子字符串 II                             | [Python](Code/2/9/2982/2982.py)                                    | 中等         | 二分答案 |          |
-| 3143 | 正方形中的最多点数                                        | [Pythom](Code/3/1/3143/3143.py)                                    | 中等         | 二分答案 |          |
+| 3143 | 正方形中的最多点数                                        | [Python](Code/3/1/3143/3143.py)                                    | 中等         | 二分答案 |          |
 | 3435 | 分割正方形 I                                          | [Python](Code/3/4/3435/3435.py)                                    | 中等         | 浮点二分 |          |
 
 
@@ -224,6 +224,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1511 | [消费者下单频率](Code/1/5/1511/README.md)                 | [Python](Code/1/5/1511/1511.py) | 简单         | VIP  |
 | 1517 | 查找拥有有效邮箱的用户                                        | [Python](Code/1/5/1517/1517.py) | 简单         | 正则   |
 | 1527 | 患某种疾病的患者                                           | [Python](Code/1/5/1527/1527.py) | 简单         | 正则   |
+| 1543 | [产品名称格式修复](Code/1/5/1543/README.md)                | [Python](Code/1/5/1543/1543.py) | 简单         | VIP  |
 | 1571 | [仓库经理](Code/1/5/1571/README.md)                    | [Python](Code/1/5/1571/1571.py) | 简单         | VIP  |
 | 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)             | [Python](Code/1/5/1565/1565.py) | 简单         | VIP  |
 | 1581 | 进店却未进行过交易的顾客                                       | [Python](Code/1/5/1581/1581.py) | 简单         |      |
@@ -454,7 +455,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1822 | 数组元素积的符号                                     | [Python](Code/1/8/1822/1822.py)                                    | 简单         |             |             |       |
 | 1827 | 最少操作使数组递增                                    | [Python](Code/1/8/1827/1827.py)                                    | 简单         |             |             |       |
 | 1832 | 判断句子是否为全字母句                                  | [Jupyter](Code/1/8/1832.ipynb)                                     |            |             |             |       |
-| 1837 | K 进制表示下的各位数字总和                               | [Pytrhon](Code/1/8/1837/1837.py)                                   | 简单         |             |             |       |
+| 1837 | K 进制表示下的各位数字总和                               | [Python](Code/1/8/1837/1837.py)                                    | 简单         |             |             |       |
 | 1844 | 将所有数字用字符替换                                   | [Python](Code/1/8/1844/1844.py)                                    | 简单         |             |             |       |
 | 1848 | 到目标元素的最小距离                                   | [Python](Code/1/8/1848/1848.py)                                    | 简单         |             |             |       |
 | 1859 | 将句子排序                                        | [Python](Code/1/8/1859/1859.py)                                    | 简单         |             |             |       |
