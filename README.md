@@ -330,6 +330,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0066 | 加一                                           | [Python](Code/0/0/0066/0066.py)                                    | 简单         |             |             |       |
 | 0067 | 二进制求和                                        | [Jupyter](Code/0/0/0067)                                           | 简单         |             |             |       |
 | 0069 | x 的平方根                                       | [Jupyter](Code/0/0/0069)                                           | 中等         |             |             |       |
+| 0075 | 颜色分类                                         | [Python](Code/0/0/0075/0075.py)                                    | 中等         |             |             |       |
 | 0078 | 子集                                           | [Jupyter](Code/0/0/0078.ipynb)                                     | 中等         |             |             |       |
 | 0080 | 删除有序数组中的重复项 II                               | [Jupyter](Code/0/0/0080.ipynb)                                     | 中等         |             |             |       |
 | 0081 | 搜索旋转排序数组 II                                  | [Jupyter](Code/0/0/0081.ipynb)                                     | 中等         |             |             |       |
