@@ -269,6 +269,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2668 | [查询员工当前薪水](Code/2/6/2668/README.md)                | [Python](Code/2/6/2668/2668.py) | 简单         | VIP  |
 | 2669 | [统计 Spotify 排行榜上艺术家出现次数](Code/2/6/2669/README.md)  | [Python](Code/2/6/2669/2669.py) | 简单         | VIP  |
 | 2837 | 总旅行距离                                              | [Python](Code/2/8/2837/2837.py) | 简单         |      |
+| 2853 | [最高薪水差异](Code/2/8/2853/README.md)                  | [Python](Code/2/8/2853/2853.py) | 简单         | VIP  |
 | 2877 | 从表中创建 DataFrame                                    | [Python](Code/2/8/2877/2877.py) | 简单         |      |
 | 2878 | 获取 DataFrame 的大小                                   | [Python](Code/2/8/2878/2878.py) | 简单         |      |
 | 2880 | 数据选取                                               | [Python](Code/2/8/2880/2880.py) | 简单         |      |
