@@ -229,6 +229,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)             | [Python](Code/1/5/1565/1565.py) | 简单         | VIP  |
 | 1581 | 进店却未进行过交易的顾客                                       | [Python](Code/1/5/1581/1581.py) | 简单         |      |
 | 1587 | 银行账户概要 II                                          | [Python](Code/1/5/1587/1587.py) | 简单         |      |
+| 1607 | [没有卖出的卖家](Code/1/6/1607/README.md)                 | [python](Code/1/6/1607/1607.py) | 简单         | VIP  |
 | 1623 | [三人国家代表队](Code/1/6/1623/README.md)                 | [Python](Code/1/6/1623/1623.py) | 简单         | VIP  |
 | 1633 | 各赛事的用户注册率                                          | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                                      | [Python](Code/1/6/1661/1661.py) | 简单         |      |
