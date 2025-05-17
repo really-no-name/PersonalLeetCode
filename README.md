@@ -157,7 +157,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2594 | 修车的最少时间                                          | [Python](Code/2/5/2594/2594.py)                                    | 中等         | 二分答案 |          |
 | 2702 | [使数字变为非正数的最小操作次数](Code/2/7/2702/README.md)       | [Python](Code/2/7/2702/2702.py)                                    | 困难         |      | VIP      |
 | 2982 | 找出出现至少三次的最长特殊子字符串 II                             | [Python](Code/2/9/2982/2982.py)                                    | 中等         | 二分答案 |          |
-| 3143 | 正方形中的最多点数                                        | [Pythom](Code/3/1/3143/3143.py)                                    | 中等         | 二分答案 |          |
+| 3143 | 正方形中的最多点数                                        | [Python](Code/3/1/3143/3143.py)                                    | 中等         | 二分答案 |          |
 | 3435 | 分割正方形 I                                          | [Python](Code/3/4/3435/3435.py)                                    | 中等         | 浮点二分 |          |
 
 
@@ -224,14 +224,17 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1511 | [消费者下单频率](Code/1/5/1511/README.md)                 | [Python](Code/1/5/1511/1511.py) | 简单         | VIP  |
 | 1517 | 查找拥有有效邮箱的用户                                        | [Python](Code/1/5/1517/1517.py) | 简单         | 正则   |
 | 1527 | 患某种疾病的患者                                           | [Python](Code/1/5/1527/1527.py) | 简单         | 正则   |
+| 1543 | [产品名称格式修复](Code/1/5/1543/README.md)                | [Python](Code/1/5/1543/1543.py) | 简单         | VIP  |
 | 1571 | [仓库经理](Code/1/5/1571/README.md)                    | [Python](Code/1/5/1571/1571.py) | 简单         | VIP  |
 | 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)             | [Python](Code/1/5/1565/1565.py) | 简单         | VIP  |
 | 1581 | 进店却未进行过交易的顾客                                       | [Python](Code/1/5/1581/1581.py) | 简单         |      |
 | 1587 | 银行账户概要 II                                          | [Python](Code/1/5/1587/1587.py) | 简单         |      |
+| 1607 | [没有卖出的卖家](Code/1/6/1607/README.md)                 | [python](Code/1/6/1607/1607.py) | 简单         | VIP  |
 | 1623 | [三人国家代表队](Code/1/6/1623/README.md)                 | [Python](Code/1/6/1623/1623.py) | 简单         | VIP  |
 | 1633 | 各赛事的用户注册率                                          | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                                      | [Python](Code/1/6/1661/1661.py) | 简单         |      |
 | 1667 | 修复表中的名字                                            | [Python](Code/1/6/1667/1667.py) | 简单         |      |
+| 1677 | [发票中的产品金额](Code/1/6/1677/README.md)                | [Python](Code/1/6/1677/1677.py) | 简单         | VIP  |
 | 1683 | 无效的推文                                              | [python](Code/1/6/1683/1683.py) | 简单         |      |
 | 1693 | 每天的领导和合伙人                                          | [Python](Code/1/6/1693/1693.py) | 简单         |      |
 | 1705 | 项目员工 I                                             | [Python](Code/1/7/1705/1705.py) | 简单         |      |
@@ -241,10 +244,12 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1777 | [每家商店的产品价格](Code/1/7/1777/README.md)               | [Python](Code/1/7/1777/1777.py) | 简单         | VIP  |
 | 1789 | 员工的直属部门                                            | [Python](Code/1/7/1789/1789.py) | 简单         |      |
 | 1795 | 每个产品在不同商店的价格                                       | [Python](Code/1/7/1795/1795.py) | 简单         |      |
+| 1809 | [没有广告的剧集](Code/1/8/1809/README.md)                 | [Python](Code/1/8/1809/1809.py) | 简单         | VIP  |
 | 1821 | [寻找今年具有正收入的客户](Code/1/8/1821/README.md)            | [Python](Code/1/8/1821/1821.py) | 简单         | VIP  |
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)                  | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
 | 1873 | 计算特殊奖金                                             | [Python](Code/1/8/1873/1873.py) | 简单         |      |
 | 1890 | 2020年最后一次登录                                        | [Python](Code/1/8/1890/1890.py) | 简单         |      |
+| 1939 | [主动请求确认消息的用户](Code/1/9/1939/README.md)             | [Python](Code/1/9/1939/1939.py) | 简单         | VIP  |
 | 1965 | 丢失信息的雇员                                            | [Python](Code/1/9/1965/1965.py) | 简单         |      |
 | 1978 | 上级经理已离职的公司员工                                       | [Python](Code/1/9/1978/1978.py) | 简单         |      |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)                  | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
@@ -330,6 +335,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0066 | 加一                                           | [Python](Code/0/0/0066/0066.py)                                    | 简单         |             |             |       |
 | 0067 | 二进制求和                                        | [Jupyter](Code/0/0/0067)                                           | 简单         |             |             |       |
 | 0069 | x 的平方根                                       | [Jupyter](Code/0/0/0069)                                           | 中等         |             |             |       |
+| 0075 | 颜色分类                                         | [Python](Code/0/0/0075/0075.py)                                    | 中等         |             |             |       |
 | 0078 | 子集                                           | [Jupyter](Code/0/0/0078.ipynb)                                     | 中等         |             |             |       |
 | 0080 | 删除有序数组中的重复项 II                               | [Jupyter](Code/0/0/0080.ipynb)                                     | 中等         |             |             |       |
 | 0081 | 搜索旋转排序数组 II                                  | [Jupyter](Code/0/0/0081.ipynb)                                     | 中等         |             |             |       |
@@ -453,7 +459,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1822 | 数组元素积的符号                                     | [Python](Code/1/8/1822/1822.py)                                    | 简单         |             |             |       |
 | 1827 | 最少操作使数组递增                                    | [Python](Code/1/8/1827/1827.py)                                    | 简单         |             |             |       |
 | 1832 | 判断句子是否为全字母句                                  | [Jupyter](Code/1/8/1832.ipynb)                                     |            |             |             |       |
-| 1837 | K 进制表示下的各位数字总和                               | [Pytrhon](Code/1/8/1837/1837.py)                                   | 简单         |             |             |       |
+| 1837 | K 进制表示下的各位数字总和                               | [Python](Code/1/8/1837/1837.py)                                    | 简单         |             |             |       |
 | 1844 | 将所有数字用字符替换                                   | [Python](Code/1/8/1844/1844.py)                                    | 简单         |             |             |       |
 | 1848 | 到目标元素的最小距离                                   | [Python](Code/1/8/1848/1848.py)                                    | 简单         |             |             |       |
 | 1859 | 将句子排序                                        | [Python](Code/1/8/1859/1859.py)                                    | 简单         |             |             |       |
