@@ -234,6 +234,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1633 | 各赛事的用户注册率                                          | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                                      | [Python](Code/1/6/1661/1661.py) | 简单         |      |
 | 1667 | 修复表中的名字                                            | [Python](Code/1/6/1667/1667.py) | 简单         |      |
+| 1677 | [发票中的产品金额](Code/1/6/1677/README.md)                | [Python](Code/1/6/1677/1677.py) | 简单         | VIP  |
 | 1683 | 无效的推文                                              | [python](Code/1/6/1683/1683.py) | 简单         |      |
 | 1693 | 每天的领导和合伙人                                          | [Python](Code/1/6/1693/1693.py) | 简单         |      |
 | 1705 | 项目员工 I                                             | [Python](Code/1/7/1705/1705.py) | 简单         |      |
