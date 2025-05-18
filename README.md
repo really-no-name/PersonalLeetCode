@@ -257,6 +257,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2072 | [赢得比赛的大学](Code/2/0/2072/README.md)                 | [Python](Code/2/0/2072/2072.py) | 简单         | VIP  |
 | 2082 | [富有客户的数量](Code/2/0/2082/README.md)                 | [Python](Code/2/0/2082/2082.py) | 简单         | VIP  |
 | 2084 | [为订单类型为 0 的客户删除类型为 1 的订单](Code/2/0/2084/README.md) | [Python](Code/2/0/2084/2084.py) | 中等         | VIP  |
+| 2205 | [有资格享受折扣的用户数量](Code/2/2/2205/README.md)            | [Python](Code/2/2/2205/2205.py) | 简单         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)              | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
 | 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)                 | [Python](Code/2/3/2329/2329.py) | 简单         | VIP  |
 | 2339 | [联赛的所有比赛](Code/2/3/2339/README.md)                 | [Python](Code/2/3/2339/2339.py) | 简单         | VIP  |
@@ -268,6 +269,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2668 | [查询员工当前薪水](Code/2/6/2668/README.md)                | [Python](Code/2/6/2668/2668.py) | 简单         | VIP  |
 | 2669 | [统计 Spotify 排行榜上艺术家出现次数](Code/2/6/2669/README.md)  | [Python](Code/2/6/2669/2669.py) | 简单         | VIP  |
 | 2837 | 总旅行距离                                              | [Python](Code/2/8/2837/2837.py) | 简单         |      |
+| 2853 | [最高薪水差异](Code/2/8/2853/README.md)                  | [Python](Code/2/8/2853/2853.py) | 简单         | VIP  |
 | 2877 | 从表中创建 DataFrame                                    | [Python](Code/2/8/2877/2877.py) | 简单         |      |
 | 2878 | 获取 DataFrame 的大小                                   | [Python](Code/2/8/2878/2878.py) | 简单         |      |
 | 2880 | 数据选取                                               | [Python](Code/2/8/2880/2880.py) | 简单         |      |
@@ -281,13 +283,16 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2889 | 数据重塑：透视                                            | [Python](Code/2/8/2889/2889.py) | 简单         |      |
 | 2890 | 重塑数据：融合                                            | [Python](Code/2/8/2890/2890.py) | 简单         |      |
 | 2891 | 方法链                                                | [Python](Code/2/8/2891/2891.py) | 简单         |      |
+| 2990 | [贷款类型](Code/2/9/2990/README.md)                    | [Python](Code/2/9/2990/2990.py) | 简单         | VIP  |
 | 2985 | [计算订单平均商品数量](Code/2/9/2985/README.md)              | [Python](Code/2/9/2985/2985.py) | 简单         | VIP  |
 | 2987 | [寻找房价最贵的城市](Code/2/9/2987/README.md)               | [Python](Code/2/9/2987/2987.py) | 简单         | VIP  |
 | 2989 | [班级表现](Code/2/9/2989/README.md)                    | [Python](Code/2/9/2989/2989.py) | 中等         | VIP  |
 | 2993 | [发生在周五的交易 I](Code/2/9/2993/README.md)              | [Python](Code/2/9/2993/2993.py) | 中等         | VIP  |
 | 3051 | [寻找数据科学家职位的候选人](Code/3/0/3051/README.md)           | [Python](Code/3/0/3051/3051.py) | 简单         | VIP  |
+| 3053 | [根据长度分类三角形](Code/3/0/3053/README.md)               | [Python](Code/3/0/3053/3053.py) | 简单         | VIP  |
 | 3059 | [找到所有不同的邮件域名](Code/3/0/3059/README.md)             | [Python](Code/3/0/3059/3059.py) | 简单         | VIP  |
 | 3150 | [无效的推文 II](Code/3/1/3150/README.md)                | [Python](Code/3/1/3150/3150.py) | 简单         | VIP  |
+| 3172 | [第二天验证](Code/3/1/3172/README.md)                   | [Python](Code/3/1/3172/3172.py) | 简单         | VIP  |
 | 3198 | [查找每个州的城市](Code/3/1/3198/README.md)                | [Python](Code/3/1/3198/3198.py) | 简单         | VIP  |
 | 3204 | [按位用户权限分析](Code/3/2/3204/README.md)                | [Python](Code/3/2/3204/3204.py) | 中等         | VIP  |
 | 3246 | [英超积分榜排名](Code/3/2/3246/README.md)                 | [Python](Code/3/2/3246/3246.py) | 简单         | VIP  |
