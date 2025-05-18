@@ -283,13 +283,16 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2889 | 数据重塑：透视                                            | [Python](Code/2/8/2889/2889.py) | 简单         |      |
 | 2890 | 重塑数据：融合                                            | [Python](Code/2/8/2890/2890.py) | 简单         |      |
 | 2891 | 方法链                                                | [Python](Code/2/8/2891/2891.py) | 简单         |      |
+| 2990 | [贷款类型](Code/2/9/2990/README.md)                    | [Python](Code/2/9/2990/2990.py) | 简单         | VIP  |
 | 2985 | [计算订单平均商品数量](Code/2/9/2985/README.md)              | [Python](Code/2/9/2985/2985.py) | 简单         | VIP  |
 | 2987 | [寻找房价最贵的城市](Code/2/9/2987/README.md)               | [Python](Code/2/9/2987/2987.py) | 简单         | VIP  |
 | 2989 | [班级表现](Code/2/9/2989/README.md)                    | [Python](Code/2/9/2989/2989.py) | 中等         | VIP  |
 | 2993 | [发生在周五的交易 I](Code/2/9/2993/README.md)              | [Python](Code/2/9/2993/2993.py) | 中等         | VIP  |
 | 3051 | [寻找数据科学家职位的候选人](Code/3/0/3051/README.md)           | [Python](Code/3/0/3051/3051.py) | 简单         | VIP  |
+| 3053 | [根据长度分类三角形](Code/3/0/3053/README.md)               | [Python](Code/3/0/3053/3053.py) | 简单         | VIP  |
 | 3059 | [找到所有不同的邮件域名](Code/3/0/3059/README.md)             | [Python](Code/3/0/3059/3059.py) | 简单         | VIP  |
 | 3150 | [无效的推文 II](Code/3/1/3150/README.md)                | [Python](Code/3/1/3150/3150.py) | 简单         | VIP  |
+| 3172 | [第二天验证](Code/3/1/3172/README.md)                   | [Python](Code/3/1/3172/3172.py) | 简单         | VIP  |
 | 3198 | [查找每个州的城市](Code/3/1/3198/README.md)                | [Python](Code/3/1/3198/3198.py) | 简单         | VIP  |
 | 3204 | [按位用户权限分析](Code/3/2/3204/README.md)                | [Python](Code/3/2/3204/3204.py) | 中等         | VIP  |
 | 3246 | [英超积分榜排名](Code/3/2/3246/README.md)                 | [Python](Code/3/2/3246/3246.py) | 简单         | VIP  |
