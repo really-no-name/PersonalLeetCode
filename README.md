@@ -167,7 +167,9 @@ _**This project is for documenting my LeetCode related programmes.**_
 | #    | Title                                              | Solution                        | Difficulty | Note |
 |:-----|:---------------------------------------------------|:--------------------------------|:-----------|------|
 | 0175 | 组合两个表                                              | [Python](Code/0/1/0175/0175.py) | 简单         |      |
+| 0177 | 第N高的薪水                                             | [Python](Code/0/1/0177/0177.py) | 中等         |      |
 | 0178 | 分数排名                                               | [Python](Code/0/1/0178/0178.py) | 中等         |      |
+| 0180 | 连续出现的数字                                            | [Python](Code/0/1/0180/0180.py) | 中等         |      |
 | 0181 | 超过经理收入的员工                                          | [Python](Code/0/1/0181/0181.py) | 简单         |      |
 | 0182 | 查找重复的电子邮箱                                          | [Python](Code/0/1/0182/0182.py) | 简单         |      |
 | 0183 | 从不订购的客户                                            | [Python](Code/0/1/0183/0183.py) | 简单         |      |
@@ -176,20 +178,30 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0197 | 上升的温度                                              | [Python](Code/0/1/0197/0197.py) | 简单         |      |
 | 0511 | 游戏玩法分析 I                                           | [Python](Code/0/5/0511/0511.py) | 简单         |      |
 | 0512 | [游戏玩法分析 II](Code/0/5/0512/README.md)               | [Python](Code/0/5/0512/0512.py) | 简单         | VIP  |
+| 0534 | [游戏玩法分析 III](Code/0/5/0534/README.md)              | [Python](Code/0/5/0534/0534.py) | 中等         | VIP  |
 | 0550 | 游戏玩法分析 IV                                          | [Python](Code/0/5/0550/0550.py) | 中等         |      |
 | 0570 | 至少有5名直接下属的经理                                       | [Python](Code/0/5/0570/0570.py) | 中等         |      |
+| 0574 | [当选者](Code/0/5/0574/0574.py)                       | [Python](Code/0/5/0574/0574.py) | 中等         | VIP  |
 | 0577 | 员工奖金                                               | [Python](Code/0/5/0577/0577.py) | 简单         |      |
+| 0578 | [查询回答率最高的问题](Code/0/5/0578/README.md)              | [Python](Code/0/5/0578/0578.py) | 中等         | VIP  |
+| 0580 | [统计各专业学生人数](Code/0/5/0580/README.md)               | [Python](Code/0/5/0580/0580.py) | 中等         | VIP  |
+| 0585 | 2016年的投资                                           | [Python](Code/0/5/0585/0585.py) | 中等         |      |
 | 0586 | 订单最多的客户                                            | [Python](Code/0/5/0586/0586.py) | 简单         |      |
 | 0595 | 大的国家                                               | [Python](Code/0/5/0595/0595.py) | 简单         |      |
 | 0596 | 超过 5 名学生的课                                         | [Python](Code/0/5/0596/0596.py) | 简单         |      |
 | 0597 | [好友申请 I：总体通过率](Code/0/5/0597/README.md)            | [Python](Code/0/5/0597/0597.py) | 简单         | VIP  |
 | 0601 | 体育馆的人流量                                            | [Python](Code/0/6/0601/0601.py) | 困难         |      |
+| 0602 | 好友申请 II ：谁有最多的好友                                   | [Python](Code/0/6/0602/0602.py) | 中等         | VIP  |
 | 0603 | [连续空余座位](Code/0/6/0603/README.md)                  | [Python](Code/0/6/0603/0603.py) | 简单         | VIP  |
 | 0607 | 销售员                                                | [Python](Code/0/6/0607/0607.py) | 简单         |      |
+| 0608 | 树节点                                                | [Python](Code/0/6/0608/0608.py) | 中等         |      |
 | 0610 | 判断三角形                                              | [Python](Code/0/6/0610/0610.py) | 简单         |      |
+| 0612 | [平面上的最近距离](Code/0/6/0612/README.md)                | [Python](Code/0/6/0612/0612.py) | 中等         | VIP  |
 | 0613 | [直线上的最近距离](Code/0/6/0613/README.md)                | [Python](Code/0/6/0613/0613.py) | 简单         | VIP  |
+| 0614 | [二级关注者](Code/0/6/0614/README.md)                   | [Python](Code/0/6/0614/0614.py) | 中等         | VIP  |
 | 0619 | 只出现一次的最大数字                                         | [Python](Code/0/6/0619/0619.py) | 简单         |      |
 | 0620 | 有趣的电影                                              | [Python](Code/0/6/0620/0620.py) | 简单         |      |
+| 0626 | 换座位                                                | [Python](Code/0/6/0626/0626.py) | 中等         |      |
 | 0627 | 变更性别                                               | [Python](Code/0/6/0627/0627.py) | 简单         |      |
 | 1050 | 合作过至少三次的演员和导演                                      | [Python](Code/1/0/1050/1050.py) | 简单         |      |
 | 1068 | 产品销售分析 I                                           | [Python](Code/1/0/1068/1068.py) | 简单         |      |
@@ -565,6 +577,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2918 | 数组的最小相等和                                     | [Python](Code/2/9/2918/2918.py)                                    | 简单         |             |             |       |
 | 2946 | 循环移位后的矩阵相似检查                                 | [Python](Code/2/9/2946/2946.py)                                    | 简单         |             |             |       |
 | 2996 | 大于等于顺序前缀和的最小缺失整数                             | [Python](Code/2/9/2996/2996.py)                                    | 简单         |             |             |       |
+| 3024 | 三角形类型                                        | [Python](Code/3/0/3024/3024.py)                                    | 简单         |             |             |       |
 | 3033 | 修改矩阵                                         | [Python](Code/3/0/3033/3033.py)                                    | 简单         |             |             |       |
 | 3110 | 字符串的分数                                       | [Python](Code/3/1/3110/3110.py)                                    | 简单         |             |             |       |
 | 3200 | 三角形的最大高度                                     | [Python](Code/3/2/3200/3200.py)                                    | 简单         |             |             |       |
