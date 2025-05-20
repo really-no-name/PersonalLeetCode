@@ -203,13 +203,17 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0620 | 有趣的电影                                              | [Python](Code/0/6/0620/0620.py) | 简单         |      |
 | 0626 | 换座位                                                | [Python](Code/0/6/0626/0626.py) | 中等         |      |
 | 0627 | 变更性别                                               | [Python](Code/0/6/0627/0627.py) | 简单         |      |
+| 1045 | 买下所有产品的客户                                          | [Python](Code/1/0/1045/1045.py) | 中等         |      |
 | 1050 | 合作过至少三次的演员和导演                                      | [Python](Code/1/0/1050/1050.py) | 简单         |      |
 | 1068 | 产品销售分析 I                                           | [Python](Code/1/0/1068/1068.py) | 简单         |      |
 | 1069 | [产品销售分析 II](Code/1/0/1069/README.md)               | [Python](Code/1/0/1069/1069.py) | 简单         | VIP  |
+| 1070 | 产品销售分析 III                                         | [Python](Code/1/0/1070/1070.py) | 中等         | ?    |
 | 1076 | [项目员工II](Code/1/0/1076/README.md)                  | [Python](Code/1/0/1076/1076.py) | 简单         | VIP  |
+| 1077 | [项目员工 III](Code/1/0/1077/README.md)                | [Python](Code/1/0/1077/1077.py) | 中等         | VIP  |
 | 1082 | [销售分析 I](Code/1/0/1082/README.md)                  | [Python](Code/1/0/1082/1082.py) | 简单         | VIP  |
 | 1083 | [销售分析 II](Code/1/0/1083/README.md)                 | [Python](Code/1/0/1083/1083.py) | 简单         | VIP  |
 | 1084 | 销售分析 III                                           | [Python](Code/1/0/1084/1084.py) | 简单         |      |
+| 1098 | [小众书籍](Code/1/0/1098/README.md)                    | [Python](Code/1/0/1098/1098.py) | 中等         | VIP  |
 | 1113 | [报告的记录](Code/1/1/1113/README.md)                   | [Python](Code/1/1/1113/1113.py) | 简单         | VIP  |
 | 1141 | 查询近30天活跃用户数                                        | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1142 | [过去30天的用户活动 II](Code/1/1/1142/README.md)           | [Python](Code/1/1/1142/1142.py) | 简单         | VIP  |
