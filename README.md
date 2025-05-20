@@ -214,6 +214,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1083 | [销售分析 II](Code/1/0/1083/README.md)                 | [Python](Code/1/0/1083/1083.py) | 简单         | VIP  |
 | 1084 | 销售分析 III                                           | [Python](Code/1/0/1084/1084.py) | 简单         |      |
 | 1098 | [小众书籍](Code/1/0/1098/README.md)                    | [Python](Code/1/0/1098/1098.py) | 中等         | VIP  |
+| 1107 | [每日新用户统计](Code/1/1/1107/README.md)                 | [Python](Code/1/1/1107/1107.py) | 中等         | VIP  |
 | 1113 | [报告的记录](Code/1/1/1113/README.md)                   | [Python](Code/1/1/1113/1113.py) | 简单         | VIP  |
 | 1141 | 查询近30天活跃用户数                                        | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1142 | [过去30天的用户活动 II](Code/1/1/1142/README.md)           | [Python](Code/1/1/1142/1142.py) | 简单         | VIP  |
