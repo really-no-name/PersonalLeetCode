@@ -218,6 +218,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1112 | [每位学生的最高成绩](Code/1/1/1112/README.md)               | [Python](Code/1/1/1112/1112.py) | 中等         | VIP  |
 | 1113 | [报告的记录](Code/1/1/1113/README.md)                   | [Python](Code/1/1/1113/1113.py) | 简单         | VIP  |
 | 1126 | [查询活跃业务](Code/1/1/1126/README.md)                  | [Python](Code/1/1/1126/1126.py) | 中等         | VIP  |
+| 1132 | [报告的记录 II](Code/1/1/1132/README.md)                | [Python](Code/1/1/1132/1132.py) | 中等         | VIP? |
 | 1141 | 查询近30天活跃用户数                                        | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1142 | [过去30天的用户活动 II](Code/1/1/1142/README.md)           | [Python](Code/1/1/1142/1142.py) | 简单         | VIP  |
 | 1148 | 文章浏览 I                                             | [Python](Code/1/1/1148/1148.py) | 简单         |      |
