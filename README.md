@@ -230,6 +230,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1179 | 重新格式化部门表                                           | [Python](Code/1/1/1179/1179.py) | 简单         |      |
 | 1193 | 每月交易 I                                             | [Python](Code/1/1/1193/1193.py) | 中等         |      |
 | 1204 | 最后一个能进入巴士的人                                        | [Python](Code/1/2/1204/1204.py) | 中等         |      |
+| 1205 | [每月交易 II](Code/1/2/1205/README.md)                 | [Python](Code/1/2/1205/1205.py) | 中等         | VIP  |
 | 1211 | 查询结果的质量和占比                                         | [Python](Code/1/2/1211/1211.py) | 简单         |      |
 | 1214 | [每个帖子的评论数](Code/1/2/1214/README.md)                | [Python](Code/1/2/1214/1214.py) | 简单         | VIP  |
 | 1251 | 平均售价                                               | [Python](Code/1/2/1251/1251.py) | 简单         |      |
