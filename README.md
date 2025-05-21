@@ -226,6 +226,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1158 | [市场分析 I](Code/1/1/1158/README.md)                  | [Python](Code/1/1/1158/1158.py) | 中等         | VIP  |
 | 1164 | 指定日期的产品价格                                          | [Python](Code/1/1/1164/1164.py) | 中等         |      |
 | 1173 | [即时食物配送 I](Code/1/1/1173/README.md)                | [Python](Code/1/1/1173/1173.py) | 简单         | VIP  |
+| 1174 | 即时食物配送 II                                          | [Python](Code/1/1/1174/1174.py) | 中等         |      |
 | 1179 | 重新格式化部门表                                           | [Python](Code/1/1/1179/1179.py) | 简单         |      |
 | 1211 | 查询结果的质量和占比                                         | [Python](Code/1/2/1211/1211.py) | 简单         |      |
 | 1214 | [每个帖子的评论数](Code/1/2/1214/README.md)                | [Python](Code/1/2/1214/1214.py) | 简单         | VIP  |
