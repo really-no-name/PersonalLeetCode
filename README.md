@@ -235,6 +235,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1212 | [查询球队积分](Code/1/2/1212/README.md)                  | [Python](Code/1/2/1212/1212.py) | 中等         | VIP  |
 | 1214 | [每个帖子的评论数](Code/1/2/1214/README.md)                | [Python](Code/1/2/1214/1214.py) | 简单         | VIP  |
 | 1251 | 平均售价                                               | [Python](Code/1/2/1251/1251.py) | 简单         |      |
+| 1264 | [页面推荐](Code/1/2/1264/README.md)                    | [Python](Code/1/2/1264/1264.py) | 中等         | VIP  |
 | 1280 | 学生们参加各科测试的次数                                       | [Python](Code/1/2/1280/1280.py) | 简单         |      |
 | 1294 | [不同国家的天气类型](Code/1/2/1294/README.md)               | [Python](Code/1/2/1294/1294.py) | 简单         | VIP  |
 | 1303 | [求团队人数](Code/1/3/1303/README.md)                   | [Python](Code/1/3/1303/1303.py) | 简单         | VIP  |
