@@ -238,6 +238,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1264 | [页面推荐](Code/1/2/1264/README.md)                    | [Python](Code/1/2/1264/1264.py) | 中等         | VIP  |
 | 1270 | [向公司 CEO 汇报工作的所有人](Code/1/2/1270/README.md)        | [Python](Code/1/2/1270/1270.py) | 中等         | VIP  |
 | 1280 | 学生们参加各科测试的次数                                       | [Python](Code/1/2/1280/1280.py) | 简单         |      |
+| 1285 | [找到连续区间的开始和结束数字](Code/1/2/1285/README.md)          | [Python](Code/1/2/1285/1285.py) | 中等         | VIP  |
 | 1294 | [不同国家的天气类型](Code/1/2/1294/README.md)               | [Python](Code/1/2/1294/1294.py) | 简单         | VIP  |
 | 1303 | [求团队人数](Code/1/3/1303/README.md)                   | [Python](Code/1/3/1303/1303.py) | 简单         | VIP  |
 | 1322 | [广告效果](Code/1/3/1322/README.md)                    | [Python](Code/1/3/1322/1322.py) | 简单         | VIP  |
