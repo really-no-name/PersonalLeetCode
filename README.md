@@ -232,6 +232,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1204 | 最后一个能进入巴士的人                                        | [Python](Code/1/2/1204/1204.py) | 中等         |      |
 | 1205 | [每月交易 II](Code/1/2/1205/README.md)                 | [Python](Code/1/2/1205/1205.py) | 中等         | VIP  |
 | 1211 | 查询结果的质量和占比                                         | [Python](Code/1/2/1211/1211.py) | 简单         |      |
+| 1212 | [查询球队积分](Code/1/2/1212/README.md)                  | [Python](Code/1/2/1212/1212.py) | 中等         | VIP  |
 | 1214 | [每个帖子的评论数](Code/1/2/1214/README.md)                | [Python](Code/1/2/1214/1214.py) | 简单         | VIP  |
 | 1251 | 平均售价                                               | [Python](Code/1/2/1251/1251.py) | 简单         |      |
 | 1280 | 学生们参加各科测试的次数                                       | [Python](Code/1/2/1280/1280.py) | 简单         |      |
