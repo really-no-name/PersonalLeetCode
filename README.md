@@ -222,16 +222,29 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1141 | 查询近30天活跃用户数                                        | [Python](Code/1/1/1141/1141.py) | 简单         |      |
 | 1142 | [过去30天的用户活动 II](Code/1/1/1142/README.md)           | [Python](Code/1/1/1142/1142.py) | 简单         | VIP  |
 | 1148 | 文章浏览 I                                             | [Python](Code/1/1/1148/1148.py) | 简单         |      |
+| 1149 | [文章浏览 II](Code/1/1/1149/README.md)                 | [python](Code/1/1/1149/1149.py) | 中等         | VIP  |
+| 1158 | [市场分析 I](Code/1/1/1158/README.md)                  | [Python](Code/1/1/1158/1158.py) | 中等         | VIP  |
+| 1164 | 指定日期的产品价格                                          | [Python](Code/1/1/1164/1164.py) | 中等         |      |
 | 1173 | [即时食物配送 I](Code/1/1/1173/README.md)                | [Python](Code/1/1/1173/1173.py) | 简单         | VIP  |
+| 1174 | 即时食物配送 II                                          | [Python](Code/1/1/1174/1174.py) | 中等         |      |
 | 1179 | 重新格式化部门表                                           | [Python](Code/1/1/1179/1179.py) | 简单         |      |
+| 1193 | 每月交易 I                                             | [Python](Code/1/1/1193/1193.py) | 中等         |      |
+| 1204 | 最后一个能进入巴士的人                                        | [Python](Code/1/2/1204/1204.py) | 中等         |      |
+| 1205 | [每月交易 II](Code/1/2/1205/README.md)                 | [Python](Code/1/2/1205/1205.py) | 中等         | VIP  |
 | 1211 | 查询结果的质量和占比                                         | [Python](Code/1/2/1211/1211.py) | 简单         |      |
+| 1212 | [查询球队积分](Code/1/2/1212/README.md)                  | [Python](Code/1/2/1212/1212.py) | 中等         | VIP  |
 | 1214 | [每个帖子的评论数](Code/1/2/1214/README.md)                | [Python](Code/1/2/1214/1214.py) | 简单         | VIP  |
 | 1251 | 平均售价                                               | [Python](Code/1/2/1251/1251.py) | 简单         |      |
+| 1264 | [页面推荐](Code/1/2/1264/README.md)                    | [Python](Code/1/2/1264/1264.py) | 中等         | VIP  |
+| 1270 | [向公司 CEO 汇报工作的所有人](Code/1/2/1270/README.md)        | [Python](Code/1/2/1270/1270.py) | 中等         | VIP  |
 | 1280 | 学生们参加各科测试的次数                                       | [Python](Code/1/2/1280/1280.py) | 简单         |      |
+| 1285 | [找到连续区间的开始和结束数字](Code/1/2/1285/README.md)          | [Python](Code/1/2/1285/1285.py) | 中等         | VIP  |
 | 1294 | [不同国家的天气类型](Code/1/2/1294/README.md)               | [Python](Code/1/2/1294/1294.py) | 简单         | VIP  |
 | 1303 | [求团队人数](Code/1/3/1303/README.md)                   | [Python](Code/1/3/1303/1303.py) | 简单         | VIP  |
+| 1321 | 餐馆营业额变化增长                                          | [python](Code/1/3/1321/1321.py) | 中等         |      |
 | 1322 | [广告效果](Code/1/3/1322/README.md)                    | [Python](Code/1/3/1322/1322.py) | 简单         | VIP  |
 | 1327 | 列出指定时间段内所有的下单产品                                    | [Python](Code/1/3/1327/1327.py) | 简单         |      |
+| 1341 | 电影评分                                               | [Python](Code/1/3/1341/1341.py) | 中等         |      |
 | 1350 | [院系无效的学生](Code/1/3/1350/README.md)                 | [Python](Code/1/3/1350/1350.py) | 简单         | VIP  |
 | 1378 | 使用唯一标识码替换员工ID                                      | [Python](Code/1/3/1378/1378.py) | 简单         |      |
 | 1393 | 股票的资本损益                                            | [Python](Code/1/3/1393/1393.py) | 中等         |      |
