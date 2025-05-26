@@ -282,6 +282,8 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)                  | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
 | 1873 | 计算特殊奖金                                             | [Python](Code/1/8/1873/1873.py) | 简单         |      |
 | 1890 | 2020年最后一次登录                                        | [Python](Code/1/8/1890/1890.py) | 简单         |      |
+| 1907 | 按分类统计薪水                                            | [Python](Code/1/9/1907/1907.py) | 中等         |      |
+| 1934 | 确认率                                                | [Python](Code/1/9/1934/1934.py) | 中等         |      |
 | 1939 | [主动请求确认消息的用户](Code/1/9/1939/README.md)             | [Python](Code/1/9/1939/1939.py) | 简单         | VIP  |
 | 1965 | 丢失信息的雇员                                            | [Python](Code/1/9/1965/1965.py) | 简单         |      |
 | 1978 | 上级经理已离职的公司员工                                       | [Python](Code/1/9/1978/1978.py) | 简单         |      |
@@ -596,6 +598,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2873 | 有序三元组中的最大值 I                                 | [Python](Code/2/8/2873/2873.py)                                    | 简单         |             |             |       |
 | 2874 | 有序三元组中的最大值 II                                | [Python](Code/2/8/2874/2874.py)                                    | 中等         |             |             |       |
 | 2918 | 数组的最小相等和                                     | [Python](Code/2/9/2918/2918.py)                                    | 简单         |             |             |       |
+| 2942 | 查找包含给定字符的单词                                  | [Python](Code/2/9/2942/2942.py)                                    | 简单         |             |             |       |
 | 2946 | 循环移位后的矩阵相似检查                                 | [Python](Code/2/9/2946/2946.py)                                    | 简单         |             |             |       |
 | 2996 | 大于等于顺序前缀和的最小缺失整数                             | [Python](Code/2/9/2996/2996.py)                                    | 简单         |             |             |       |
 | 3024 | 三角形类型                                        | [Python](Code/3/0/3024/3024.py)                                    | 简单         |             |             |       |
