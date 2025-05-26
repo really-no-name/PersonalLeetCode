@@ -330,6 +330,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3172 | [第二天验证](Code/3/1/3172/README.md)                   | [Python](Code/3/1/3172/3172.py) | 简单         | VIP  |
 | 3198 | [查找每个州的城市](Code/3/1/3198/README.md)                | [Python](Code/3/1/3198/3198.py) | 简单         | VIP  |
 | 3204 | [按位用户权限分析](Code/3/2/3204/README.md)                | [Python](Code/3/2/3204/3204.py) | 中等         | VIP  |
+| 3220 | 奇数和偶数交易                                            | [python](Code/3/2/3220/3220.py) | 中等         |      |
 | 3246 | [英超积分榜排名](Code/3/2/3246/README.md)                 | [Python](Code/3/2/3246/3246.py) | 简单         | VIP  |
 | 3293 | [计算产品最终价格](Code/3/2/3293/README.md)                | [Python](Code/3/2/3293/3293.py) | 中等         | VIP  |
 | 3338 | [第二高的薪水 II](Code/3/3/3338/README.md)               | [Python](Code/3/3/3338/3338.py) | 中等         | VIP  |
