@@ -342,6 +342,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3475 | DNA 模式识别                                           | [Python](Code/3/4/3475/3475.py) | 中等         |      |
 | 3497 | 分析订阅转化                                             | [Python](Code/3/4/3497/3497.py) | 中等         |      |
 | 3521 | 查找推荐产品对                                            | [python](Code/3/5/3521/3521.py) | 中等         |      |
+| 3564 | Seasonal Sales Analysis                            | [Python](Code/3/5/3564/3564.py) | 中等         |      |
 
 
 # §4 其他
