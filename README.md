@@ -249,6 +249,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1350 | [院系无效的学生](Code/1/3/1350/README.md)                 | [Python](Code/1/3/1350/1350.py) | 简单         | VIP  |
 | 1355 | [活动参与者](Code/1/3/1355/README.md)                   | [Python](Code/1/3/1355/1355.py) | 中等         | VIP  |
 | 1378 | 使用唯一标识码替换员工ID                                      | [Python](Code/1/3/1378/1378.py) | 简单         |      |
+| 1364 | [顾客的可信联系人数量](Code/1/3/1364/README.md)              | [Python](Code/1/3/1364/1364.py) | 中等         | VIP  |
 | 1393 | 股票的资本损益                                            | [Python](Code/1/3/1393/1393.py) | 中等         |      |
 | 1407 | 排名靠前的旅行者                                           | [Python](Code/1/4/1407/1407.py) | 简单         |      |
 | 1421 | [净现值查询](Code/1/4/1421/README.md)                   | [Python](Code/1/4/1421/1421.py) | 简单         | VIP  |
