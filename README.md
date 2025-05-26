@@ -336,6 +336,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3338 | [第二高的薪水 II](Code/3/3/3338/README.md)               | [Python](Code/3/3/3338/3338.py) | 中等         | VIP  |
 | 3358 | [评分为 NULL 的图书](Code/3/3/3358/README.md)            | [Python](Code/3/3/3358/3358.py) | 简单         | VIP  |
 | 3384 | [球队传球成功的优势得分](Code/3/3/3384/README.md)             | [Python](Code/3/3/3384/3384.py) | 困难         | VIP  |
+| 3421 | 查找进步的学生                                            | [Python](Code/3/4/3421/3421.py) | 中等         |      |
 | 3436 | 查找合法邮箱                                             | [Python](Code/3/4/3436/3436.py) | 简单         |      |
 | 3465 | 查找具有有效序列号的产品                                       | [Python](Code/3/4/3465/3465.py) | 简单         |      |
 | 3475 | DNA 模式识别                                           | [Python](Code/3/4/3475/3475.py) | 中等         |      |
