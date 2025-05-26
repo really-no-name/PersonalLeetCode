@@ -241,11 +241,13 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1285 | [找到连续区间的开始和结束数字](Code/1/2/1285/README.md)          | [Python](Code/1/2/1285/1285.py) | 中等         | VIP  |
 | 1294 | [不同国家的天气类型](Code/1/2/1294/README.md)               | [Python](Code/1/2/1294/1294.py) | 简单         | VIP  |
 | 1303 | [求团队人数](Code/1/3/1303/README.md)                   | [Python](Code/1/3/1303/1303.py) | 简单         | VIP  |
+| 1308 | [不同性别每日分数总计](Code/1/3/1308/README.md)              | [Python](Code/1/3/1308/1308.py) | 中等         | VIP  |
 | 1321 | 餐馆营业额变化增长                                          | [python](Code/1/3/1321/1321.py) | 中等         |      |
 | 1322 | [广告效果](Code/1/3/1322/README.md)                    | [Python](Code/1/3/1322/1322.py) | 简单         | VIP  |
 | 1327 | 列出指定时间段内所有的下单产品                                    | [Python](Code/1/3/1327/1327.py) | 简单         |      |
 | 1341 | 电影评分                                               | [Python](Code/1/3/1341/1341.py) | 中等         |      |
 | 1350 | [院系无效的学生](Code/1/3/1350/README.md)                 | [Python](Code/1/3/1350/1350.py) | 简单         | VIP  |
+| 1355 | [活动参与者](Code/1/3/1355/README.md)                   | [Python](Code/1/3/1355/1355.py) | 中等         | VIP  |
 | 1378 | 使用唯一标识码替换员工ID                                      | [Python](Code/1/3/1378/1378.py) | 简单         |      |
 | 1393 | 股票的资本损益                                            | [Python](Code/1/3/1393/1393.py) | 中等         |      |
 | 1407 | 排名靠前的旅行者                                           | [Python](Code/1/4/1407/1407.py) | 简单         |      |
@@ -282,6 +284,8 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)                  | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
 | 1873 | 计算特殊奖金                                             | [Python](Code/1/8/1873/1873.py) | 简单         |      |
 | 1890 | 2020年最后一次登录                                        | [Python](Code/1/8/1890/1890.py) | 简单         |      |
+| 1907 | 按分类统计薪水                                            | [Python](Code/1/9/1907/1907.py) | 中等         |      |
+| 1934 | 确认率                                                | [Python](Code/1/9/1934/1934.py) | 中等         |      |
 | 1939 | [主动请求确认消息的用户](Code/1/9/1939/README.md)             | [Python](Code/1/9/1939/1939.py) | 简单         | VIP  |
 | 1965 | 丢失信息的雇员                                            | [Python](Code/1/9/1965/1965.py) | 简单         |      |
 | 1978 | 上级经理已离职的公司员工                                       | [Python](Code/1/9/1978/1978.py) | 简单         |      |
@@ -328,15 +332,19 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3172 | [第二天验证](Code/3/1/3172/README.md)                   | [Python](Code/3/1/3172/3172.py) | 简单         | VIP  |
 | 3198 | [查找每个州的城市](Code/3/1/3198/README.md)                | [Python](Code/3/1/3198/3198.py) | 简单         | VIP  |
 | 3204 | [按位用户权限分析](Code/3/2/3204/README.md)                | [Python](Code/3/2/3204/3204.py) | 中等         | VIP  |
+| 3220 | 奇数和偶数交易                                            | [python](Code/3/2/3220/3220.py) | 中等         |      |
 | 3246 | [英超积分榜排名](Code/3/2/3246/README.md)                 | [Python](Code/3/2/3246/3246.py) | 简单         | VIP  |
 | 3293 | [计算产品最终价格](Code/3/2/3293/README.md)                | [Python](Code/3/2/3293/3293.py) | 中等         | VIP  |
 | 3338 | [第二高的薪水 II](Code/3/3/3338/README.md)               | [Python](Code/3/3/3338/3338.py) | 中等         | VIP  |
 | 3358 | [评分为 NULL 的图书](Code/3/3/3358/README.md)            | [Python](Code/3/3/3358/3358.py) | 简单         | VIP  |
 | 3384 | [球队传球成功的优势得分](Code/3/3/3384/README.md)             | [Python](Code/3/3/3384/3384.py) | 困难         | VIP  |
+| 3421 | 查找进步的学生                                            | [Python](Code/3/4/3421/3421.py) | 中等         |      |
 | 3436 | 查找合法邮箱                                             | [Python](Code/3/4/3436/3436.py) | 简单         |      |
 | 3465 | 查找具有有效序列号的产品                                       | [Python](Code/3/4/3465/3465.py) | 简单         |      |
 | 3475 | DNA 模式识别                                           | [Python](Code/3/4/3475/3475.py) | 中等         |      |
 | 3497 | 分析订阅转化                                             | [Python](Code/3/4/3497/3497.py) | 中等         |      |
+| 3521 | 查找推荐产品对                                            | [python](Code/3/5/3521/3521.py) | 中等         |      |
+| 3564 | Seasonal Sales Analysis                            | [Python](Code/3/5/3564/3564.py) | 中等         |      |
 
 
 # §4 其他
@@ -596,6 +604,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2873 | 有序三元组中的最大值 I                                 | [Python](Code/2/8/2873/2873.py)                                    | 简单         |             |             |       |
 | 2874 | 有序三元组中的最大值 II                                | [Python](Code/2/8/2874/2874.py)                                    | 中等         |             |             |       |
 | 2918 | 数组的最小相等和                                     | [Python](Code/2/9/2918/2918.py)                                    | 简单         |             |             |       |
+| 2942 | 查找包含给定字符的单词                                  | [Python](Code/2/9/2942/2942.py)                                    | 简单         |             |             |       |
 | 2946 | 循环移位后的矩阵相似检查                                 | [Python](Code/2/9/2946/2946.py)                                    | 简单         |             |             |       |
 | 2996 | 大于等于顺序前缀和的最小缺失整数                             | [Python](Code/2/9/2996/2996.py)                                    | 简单         |             |             |       |
 | 3024 | 三角形类型                                        | [Python](Code/3/0/3024/3024.py)                                    | 简单         |             |             |       |
