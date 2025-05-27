@@ -607,6 +607,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2843 | 统计对称整数的数目                                    | [Python](Code/2/8/2843/2843.py)                                    | 简单         |             |             |       |
 | 2873 | 有序三元组中的最大值 I                                 | [Python](Code/2/8/2873/2873.py)                                    | 简单         |             |             |       |
 | 2874 | 有序三元组中的最大值 II                                | [Python](Code/2/8/2874/2874.py)                                    | 中等         |             |             |       |
+| 2894 | 分类求和并作差                                      | [Python](Code/2/8/2894/2894.py)                                    | 简单         |             |             |       |
 | 2918 | 数组的最小相等和                                     | [Python](Code/2/9/2918/2918.py)                                    | 简单         |             |             |       |
 | 2942 | 查找包含给定字符的单词                                  | [Python](Code/2/9/2942/2942.py)                                    | 简单         |             |             |       |
 | 2946 | 循环移位后的矩阵相似检查                                 | [Python](Code/2/9/2946/2946.py)                                    | 简单         |             |             |       |
