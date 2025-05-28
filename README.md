@@ -258,6 +258,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1440 | [计算布尔表达式的值](Code/1/4/1440/README.md)                   | [Python](Code/1/4/1440/1440.py) | 中等         | VIP  |
 | 1445 | [苹果和桔子](Code/1/4/1445/README.md)                       | [Python](Code/1/4/1445/1445.py) | 中等         | VIP  |
 | 1454 | [活跃用户](Code/1/4/1454/README.md)                        | [Python](Code/1/4/1454/1454.py) | 中等         | VIP  |
+| 1459 | [矩形面积](Code/1/4/1459/README.md)                        | [Python](Code/1/4/1459/1459.py) | 中等         | VIP  |
 | 1484 | 按日期分组销售产品                                              | [Python](Code/1/4/1484/1484.py) | 简单         |      |
 | 1495 | [上月播放的儿童适宜电影](Code/1/4/1495/README.md)                 | [Python](Code/1/4/1495/1495.py) | 简单         | VIP  |
 | 1511 | [消费者下单频率](Code/1/5/1511/README.md)                     | [Python](Code/1/5/1511/1511.py) | 简单         | VIP  |
