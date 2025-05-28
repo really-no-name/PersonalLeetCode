@@ -268,11 +268,15 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1527 | 患某种疾病的患者                                               | [Python](Code/1/5/1527/1527.py) | 简单         | 正则   |
 | 1532 | [最近的三笔订单](Code/1/5/1532/README.md)                     | [python](Code/1/5/1532/1532.py) | 中等         | VIP  |
 | 1543 | [产品名称格式修复](Code/1/5/1543/README.md)                    | [Python](Code/1/5/1543/1543.py) | 简单         | VIP  |
+| 1549 | [每件商品的最新订单](Code/1/5/1549/README.md)                   |                                 | 中等         | VIP  |
+| 1555 | [银行账户概要](Code/1/5/1555/README.md)                      |                                 | 中等         | VIP  |
 | 1571 | [仓库经理](Code/1/5/1571/README.md)                        | [Python](Code/1/5/1571/1571.py) | 简单         | VIP  |
 | 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)                 | [Python](Code/1/5/1565/1565.py) | 简单         | VIP  |
 | 1581 | 进店却未进行过交易的顾客                                           | [Python](Code/1/5/1581/1581.py) | 简单         |      |
 | 1587 | 银行账户概要 II                                              | [Python](Code/1/5/1587/1587.py) | 简单         |      |
+| 1596 | [每位顾客最经常订购的商品](Code/1/5/1596/README.md)                |                                 | 中等         | VIP  |
 | 1607 | [没有卖出的卖家](Code/1/6/1607/README.md)                     | [python](Code/1/6/1607/1607.py) | 简单         | VIP  |
+| 1613 | [找到遗失的ID](Code/1/6/1613/README.md)                     |                                 | 中等         | VIP  |
 | 1623 | [三人国家代表队](Code/1/6/1623/README.md)                     | [Python](Code/1/6/1623/1623.py) | 简单         | VIP  |
 | 1633 | 各赛事的用户注册率                                              | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                                          | [Python](Code/1/6/1661/1661.py) | 简单         |      |
@@ -280,11 +284,16 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1677 | [发票中的产品金额](Code/1/6/1677/README.md)                    | [Python](Code/1/6/1677/1677.py) | 简单         | VIP  |
 | 1683 | 无效的推文                                                  | [python](Code/1/6/1683/1683.py) | 简单         |      |
 | 1693 | 每天的领导和合伙人                                              | [Python](Code/1/6/1693/1693.py) | 简单         |      |
+| 1699 | [两人之间的通话次数](Code/1/6/1699/README.md)                   |                                 | 中等         | VIP  |
 | 1705 | 项目员工 I                                                 | [Python](Code/1/7/1705/1705.py) | 简单         |      |
+| 1709 | [访问日期之间最大的空档期](Code/1/7/1709/README.md)                |                                 | 中等         | VIP  |
+| 1715 | [苹果和橘子的个数](Code/1/7/1715/README.md)                    |                                 | 中等         | VIP  |
 | 1729 | 求关注者的数量                                                | [Python](Code/1/7/1729/1729.py) | 简单         |      |
 | 1731 | 每位经理的下属员工数量                                            | [Python](Code/1/7/1731/1731.py) | 简单         |      |
 | 1741 | 查找每个员工花费的总时间                                           | [Python](Code/1/7/1741/1741.py) | 简单         |      |
+| 1747 | [应该被禁止的 Leetflex 账户](Code/1/7/1747/README.md)          |                                 | 中等         | VIP  |
 | 1777 | [每家商店的产品价格](Code/1/7/1777/README.md)                   | [Python](Code/1/7/1777/1777.py) | 简单         | VIP  |
+| 1783 | [大满贯数量](Code/1/7/1783/README.md)                       |                                 | 中等         | VIP  |
 | 1789 | 员工的直属部门                                                | [Python](Code/1/7/1789/1789.py) | 简单         |      |
 | 1795 | 每个产品在不同商店的价格                                           | [Python](Code/1/7/1795/1795.py) | 简单         |      |
 | 1809 | [没有广告的剧集](Code/1/8/1809/README.md)                     | [Python](Code/1/8/1809/1809.py) | 简单         | VIP  |
