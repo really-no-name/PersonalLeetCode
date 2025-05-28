@@ -262,6 +262,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1468 | [计算税后工资](Code/1/4/1468/README.md)                      | [Python](Code/1/4/1468/1468.py) | 中等         | VIP  |
 | 1484 | 按日期分组销售产品                                              | [Python](Code/1/4/1484/1484.py) | 简单         |      |
 | 1495 | [上月播放的儿童适宜电影](Code/1/4/1495/README.md)                 | [Python](Code/1/4/1495/1495.py) | 简单         | VIP  |
+| 1501 | [可以放心投资的国家](Code/1/5/1501/README.md)                   | [Python](Code/1/5/1501/1501.py) | 中等         | VIP  |
 | 1511 | [消费者下单频率](Code/1/5/1511/README.md)                     | [Python](Code/1/5/1511/1511.py) | 简单         | VIP  |
 | 1517 | 查找拥有有效邮箱的用户                                            | [Python](Code/1/5/1517/1517.py) | 简单         | 正则   |
 | 1527 | 患某种疾病的患者                                               | [Python](Code/1/5/1527/1527.py) | 简单         | 正则   |
