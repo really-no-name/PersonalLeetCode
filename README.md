@@ -266,6 +266,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1511 | [消费者下单频率](Code/1/5/1511/README.md)                     | [Python](Code/1/5/1511/1511.py) | 简单         | VIP  |
 | 1517 | 查找拥有有效邮箱的用户                                            | [Python](Code/1/5/1517/1517.py) | 简单         | 正则   |
 | 1527 | 患某种疾病的患者                                               | [Python](Code/1/5/1527/1527.py) | 简单         | 正则   |
+| 1532 | [最近的三笔订单](Code/1/5/1532/README.md)                     | [python](Code/1/5/1532/1532.py) | 中等         | VIP  |
 | 1543 | [产品名称格式修复](Code/1/5/1543/README.md)                    | [Python](Code/1/5/1543/1543.py) | 简单         | VIP  |
 | 1571 | [仓库经理](Code/1/5/1571/README.md)                        | [Python](Code/1/5/1571/1571.py) | 简单         | VIP  |
 | 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)                 | [Python](Code/1/5/1565/1565.py) | 简单         | VIP  |
