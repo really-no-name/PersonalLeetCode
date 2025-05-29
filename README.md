@@ -293,7 +293,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1741 | 查找每个员工花费的总时间                                           | [Python](Code/1/7/1741/1741.py) | 简单         |      |
 | 1747 | [应该被禁止的 Leetflex 账户](Code/1/7/1747/README.md)          |                                 | 中等         | VIP  |
 | 1777 | [每家商店的产品价格](Code/1/7/1777/README.md)                   | [Python](Code/1/7/1777/1777.py) | 简单         | VIP  |
-| 1783 | [大满贯数量](Code/1/7/1783/README.md)                       |                                 | 中等         | VIP  |
+| 1783 | [大满贯数量](Code/1/7/1783/README.md)                       | [Python](Code/1/7/1783/1783.py) | 中等         | VIP  |
 | 1789 | 员工的直属部门                                                | [Python](Code/1/7/1789/1789.py) | 简单         |      |
 | 1795 | 每个产品在不同商店的价格                                           | [Python](Code/1/7/1795/1795.py) | 简单         |      |
 | 1809 | [没有广告的剧集](Code/1/8/1809/README.md)                     | [Python](Code/1/8/1809/1809.py) | 简单         | VIP  |
