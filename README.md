@@ -268,14 +268,14 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1527 | 患某种疾病的患者                                               | [Python](Code/1/5/1527/1527.py) | 简单         | 正则   |
 | 1532 | [最近的三笔订单](Code/1/5/1532/README.md)                     | [python](Code/1/5/1532/1532.py) | 中等         | VIP  |
 | 1543 | [产品名称格式修复](Code/1/5/1543/README.md)                    | [Python](Code/1/5/1543/1543.py) | 简单         | VIP  |
-| 1549 | [每件商品的最新订单](Code/1/5/1549/README.md)                   |                                 | 中等         | VIP  |
-| 1555 | [银行账户概要](Code/1/5/1555/README.md)                      |                                 | 中等         | VIP  |
+| 1549 | [每件商品的最新订单](Code/1/5/1549/README.md)                   | [Python](Code/1/5/1549/1549.py) | 中等         | VIP  |
+| 1555 | [银行账户概要](Code/1/5/1555/README.md)                      | [Python](Code/1/5/1555/1555.py) | 中等         | VIP  |
 | 1571 | [仓库经理](Code/1/5/1571/README.md)                        | [Python](Code/1/5/1571/1571.py) | 简单         | VIP  |
 | 1565 | [按月统计订单数与顾客数](Code/1/5/1565/README.md)                 | [Python](Code/1/5/1565/1565.py) | 简单         | VIP  |
 | 1581 | 进店却未进行过交易的顾客                                           | [Python](Code/1/5/1581/1581.py) | 简单         |      |
 | 1587 | 银行账户概要 II                                              | [Python](Code/1/5/1587/1587.py) | 简单         |      |
-| 1596 | [每位顾客最经常订购的商品](Code/1/5/1596/README.md)                |                                 | 中等         | VIP  |
-| 1607 | [没有卖出的卖家](Code/1/6/1607/README.md)                     | [python](Code/1/6/1607/1607.py) | 简单         | VIP  |
+| 1596 | [每位顾客最经常订购的商品](Code/1/5/1596/README.md)                | [Python](Code/1/5/1596/1596.py) | 中等         | VIP  |
+| 1607 | [没有卖出的卖家](Code/1/6/1607/README.md)                     | [Python](Code/1/6/1607/1607.py) | 简单         | VIP  |
 | 1613 | [找到遗失的ID](Code/1/6/1613/README.md)                     |                                 | 中等         | VIP  |
 | 1623 | [三人国家代表队](Code/1/6/1623/README.md)                     | [Python](Code/1/6/1623/1623.py) | 简单         | VIP  |
 | 1633 | 各赛事的用户注册率                                              | [Python](Code/1/6/1633/1633.py) | 简单         |      |
