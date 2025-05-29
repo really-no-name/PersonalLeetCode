@@ -276,7 +276,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1587 | 银行账户概要 II                                              | [Python](Code/1/5/1587/1587.py) | 简单         |      |
 | 1596 | [每位顾客最经常订购的商品](Code/1/5/1596/README.md)                | [Python](Code/1/5/1596/1596.py) | 中等         | VIP  |
 | 1607 | [没有卖出的卖家](Code/1/6/1607/README.md)                     | [Python](Code/1/6/1607/1607.py) | 简单         | VIP  |
-| 1613 | [找到遗失的ID](Code/1/6/1613/README.md)                     |                                 | 中等         | VIP  |
+| 1613 | [找到遗失的ID](Code/1/6/1613/README.md)                     | [Python](Code/1/6/1613/1613.py) | 中等         | VIP  |
 | 1623 | [三人国家代表队](Code/1/6/1623/README.md)                     | [Python](Code/1/6/1623/1623.py) | 简单         | VIP  |
 | 1633 | 各赛事的用户注册率                                              | [Python](Code/1/6/1633/1633.py) | 简单         |      |
 | 1661 | 每台机器的进程平均运行时间                                          | [Python](Code/1/6/1661/1661.py) | 简单         |      |
