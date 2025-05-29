@@ -20,7 +20,7 @@ def count_apples_and_oranges(boxes: pd.DataFrame, chests: pd.DataFrame) -> pd.Da
 
     # 结果
     df_result = pd.DataFrame({'apple_count': [apple_sum], 'orange_count': [orange_sum]})
-    return df_merge
+    return df_result
 
 
 if __name__ == '__main__':
