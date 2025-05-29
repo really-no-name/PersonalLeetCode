@@ -12,9 +12,10 @@ import pandas as pd
 
 
 def find_missing_ids(customers: pd.DataFrame) -> pd.DataFrame:
-    # 获取最大id
-    max_id = customers.iloc[-1]['customer_id']
+    # 获取最大id 不一定是最后一行
+    # max_id = customers.iloc[-1]['customer_id']
     # max_id = customers.iat[-1, customers.get_loc('customer_id')]
+    max_id = customers['customer_id'].max()
 
     # 判断是否存在
     ans = []
