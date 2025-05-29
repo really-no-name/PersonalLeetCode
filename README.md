@@ -284,7 +284,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1677 | [发票中的产品金额](Code/1/6/1677/README.md)                    | [Python](Code/1/6/1677/1677.py) | 简单         | VIP  |
 | 1683 | 无效的推文                                                  | [python](Code/1/6/1683/1683.py) | 简单         |      |
 | 1693 | 每天的领导和合伙人                                              | [Python](Code/1/6/1693/1693.py) | 简单         |      |
-| 1699 | [两人之间的通话次数](Code/1/6/1699/README.md)                   |                                 | 中等         | VIP  |
+| 1699 | [两人之间的通话次数](Code/1/6/1699/README.md)                   | [Python](Code/1/6/1699/1699.py) | 中等         | VIP  |
 | 1705 | 项目员工 I                                                 | [Python](Code/1/7/1705/1705.py) | 简单         |      |
 | 1709 | [访问日期之间最大的空档期](Code/1/7/1709/README.md)                |                                 | 中等         | VIP  |
 | 1715 | [苹果和橘子的个数](Code/1/7/1715/README.md)                    |                                 | 中等         | VIP  |
