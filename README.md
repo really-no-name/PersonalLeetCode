@@ -597,6 +597,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2341 | 数组能形成多少数对                                    | [Python](Code/2/3/2341/2341.py)                                    | 简单         |             |             |       |
 | 2351 | 第一个出现两次的字母                                   | [Python](Code/2/3/2351/2351.py)                                    | 简单         |             |             |       |
 | 2353 | 设计食物评分系统                                     | [Python](Code/2/3/2353/2353_2.py)                                  | 中等         |             |             |       |
+| 2359 | 找到离给定两个节点最近的节点                               | [Python](Code/2/3/2359/2359.py)                                    | 中等         |             |             |       |
 | 2413 | [最小偶倍数](Code/2/4/2413/README.md)             | [Python](Code/2/4/2413/2413.py),   [C++](Code/2/4/2413/2413.cpp)   | 简单         |             |             |       |
 | 2418 | 按身高排序                                        | [Python](Code/2/4/2418/2418.py)                                    | 简单         |             |             |       |
 | 2423 | 删除字符使频率相同                                    | [Python](Code/2/4/2423/2423.py)                                    | 简单         |             |             |       |
