@@ -305,6 +305,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)                      | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
 | 1867 | [最大数量高于平均水平的订单](Code/1/8/1867/README.md)               | [Python](Code/1/8/1867/1867.py) | 中等         | VIP  |
 | 1873 | 计算特殊奖金                                                 | [Python](Code/1/8/1873/1873.py) | 简单         |      |
+| 1875 | [将工资相同的雇员分组](Code/1/8/1875/README.md)                  | [Python](Code/1/8/1875/1875.py) | 中等         | VIP  |
 | 1890 | 2020年最后一次登录                                            | [Python](Code/1/8/1890/1890.py) | 简单         |      |
 | 1907 | 按分类统计薪水                                                | [Python](Code/1/9/1907/1907.py) | 中等         |      |
 | 1934 | 确认率                                                    | [Python](Code/1/9/1934/1934.py) | 中等         |      |
