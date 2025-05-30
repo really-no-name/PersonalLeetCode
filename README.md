@@ -301,6 +301,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1821 | [寻找今年具有正收入的客户](Code/1/8/1821/README.md)                | [Python](Code/1/8/1821/1821.py) | 简单         | VIP  |
 | 1831 | [每天的最大交易](Code/1/8/1831/README.md)                     | [Python](Code/1/8/1831/1831.py) | 中等         | VIP  |
 | 1841 | [联赛信息统计](Code/1/8/1841/README.md)                      | [Python](Code/1/8/1841/1841.py) | 中等         | VIP  |
+| 1843 | [可疑银行账户](Code/1/8/1843/README.md)                      | [Python](Code/1/8/1843/1843.py) | 中等         | VIP  |
 | 1853 | [转换日期格式](Code/1/8/1853/README.md)                      | [Python](Code/1/8/1853/1853.py) | 简单         | VIP  |
 | 1873 | 计算特殊奖金                                                 | [Python](Code/1/8/1873/1873.py) | 简单         |      |
 | 1890 | 2020年最后一次登录                                            | [Python](Code/1/8/1890/1890.py) | 简单         |      |
