@@ -310,6 +310,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1907 | 按分类统计薪水                                                | [Python](Code/1/9/1907/1907.py) | 中等         |      |
 | 1934 | 确认率                                                    | [Python](Code/1/9/1934/1934.py) | 中等         |      |
 | 1939 | [主动请求确认消息的用户](Code/1/9/1939/README.md)                 | [Python](Code/1/9/1939/1939.py) | 简单         | VIP  |
+| 1949 | [坚定的友谊](Code/1/9/1949/README.md)                       | [Python](Code/1/9/1949/1949.py) | 中等         | VIP  |
 | 1965 | 丢失信息的雇员                                                | [Python](Code/1/9/1965/1965.py) | 简单         |      |
 | 1978 | 上级经理已离职的公司员工                                           | [Python](Code/1/9/1978/1978.py) | 简单         |      |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)                      | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
