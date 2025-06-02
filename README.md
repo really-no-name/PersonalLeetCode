@@ -314,6 +314,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1951 | [查询具有最多共同关注者的所有两两结对组](Code/1/9/1951/README.md)         | [Python](Code/1/9/1951/1951.py) | 中等         | VIP  |
 | 1965 | 丢失信息的雇员                                                | [Python](Code/1/9/1965/1965.py) | 简单         |      |
 | 1978 | 上级经理已离职的公司员工                                           | [Python](Code/1/9/1978/1978.py) | 简单         |      |
+| 1988 | [找出每所学校的最低分数要求](Code/1/9/1988/README.md)               | [Python](Code/1/9/1988/1988.py) | 中等         | VIP  |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)                      | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
 | 2066 | [账户余额](Code/2/0/2066/README.md)                        | [Python](Code/2/0/2066/2066.py) | 中等         | VIP  |
 | 2072 | [赢得比赛的大学](Code/2/0/2072/README.md)                     | [Python](Code/2/0/2072/2072.py) | 简单         | VIP  |
