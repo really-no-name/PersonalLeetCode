@@ -326,6 +326,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2084 | [为订单类型为 0 的客户删除类型为 1 的订单](Code/2/0/2084/README.md)     | [Python](Code/2/0/2084/2084.py) | 中等         | VIP  |
 | 2112 | [最繁忙的机场](Code/2/1/2112/README.md)                      | [Python](Code/2/1/2112/2112.py) | 中等         | VIP  |
 | 2142 | [每辆车的乘客人数 I](Code/2/1/2142/README.md)                  | [Python](Code/2/1/2142/2142.py) | 中等         | VIP  |
+| 2159 | [分别排序两列](Code/2/1/2159/README.md)                      | [Python](Code/2/1/2159/2159.py) | 中等         | VIP  |
 | 2205 | [有资格享受折扣的用户数量](Code/2/2/2205/README.md)                | [Python](Code/2/2/2205/2205.py) | 简单         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)                  | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
 | 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)                     | [Python](Code/2/3/2329/2329.py) | 简单         | VIP  |
