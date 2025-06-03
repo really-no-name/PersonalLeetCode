@@ -318,6 +318,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1990 | [统计实验的数量](Code/1/9/1990/README.md)                     | [Python](Code/1/9/1990/1990.py) | 中等         | VIP  |
 | 2020 | [无流量的帐户数](Code/2/0/2020/README.md)                     | [Python](Code/2/0/2020/2020.py) | 中等         | VIP  |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)                      | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
+| 2041 | [面试中被录取的候选人](Code/2/0/2041/README.md)                  | [Python](Code/2/0/2041/2041.py) | 中等         | VIP  |
 | 2066 | [账户余额](Code/2/0/2066/README.md)                        | [Python](Code/2/0/2066/2066.py) | 中等         | VIP  |
 | 2072 | [赢得比赛的大学](Code/2/0/2072/README.md)                     | [Python](Code/2/0/2072/2072.py) | 简单         | VIP  |
 | 2082 | [富有客户的数量](Code/2/0/2082/README.md)                     | [Python](Code/2/0/2082/2082.py) | 简单         | VIP  |
