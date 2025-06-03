@@ -316,6 +316,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1978 | 上级经理已离职的公司员工                                           | [Python](Code/1/9/1978/1978.py) | 简单         |      |
 | 1988 | [找出每所学校的最低分数要求](Code/1/9/1988/README.md)               | [Python](Code/1/9/1988/1988.py) | 中等         | VIP  |
 | 1990 | [统计实验的数量](Code/1/9/1990/README.md)                     | [Python](Code/1/9/1990/1990.py) | 中等         | VIP  |
+| 2020 | [无流量的帐户数](Code/2/0/2020/README.md)                     | [Python](Code/2/0/2020/2020.py) | 中等         | VIP  |
 | 2026 | [低质量的问题](Code/2/0/2026/README.md)                      | [Python](Code/2/0/2026/2026.py) | 简单         | VIP  |
 | 2066 | [账户余额](Code/2/0/2066/README.md)                        | [Python](Code/2/0/2066/2066.py) | 中等         | VIP  |
 | 2072 | [赢得比赛的大学](Code/2/0/2072/README.md)                     | [Python](Code/2/0/2072/2072.py) | 简单         | VIP  |
