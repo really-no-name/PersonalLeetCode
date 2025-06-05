@@ -331,6 +331,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2205 | [有资格享受折扣的用户数量](Code/2/2/2205/README.md)                | [Python](Code/2/2/2205/2205.py) | 简单         | VIP  |
 | 2228 | [7 天内两次购买的用户](Code/2/2/2228/README.md)                 | [Python](Code/2/2/2228/2228.py) | 中等         | VIP  |
 | 2230 | [查找可享受优惠的用户](Code/2/2/2230/README.md)                  | [python](Code/2/2/2230/2230.py) | 简单         | VIP  |
+| 2238 | [司机成为乘客的次数](Code/2/2/2238/README.md)                   | [Python](Code/2/2/2238/2238.py) | 中等         | VIP  |
 | 2329 | [产品销售分析Ⅴ](Code/2/3/2329/README.md)                     | [Python](Code/2/3/2329/2329.py) | 简单         | VIP  |
 | 2339 | [联赛的所有比赛](Code/2/3/2339/README.md)                     | [Python](Code/2/3/2339/2339.py) | 简单         | VIP  |
 | 2356 | 每位教师所教授的科目种类的数量                                        | [Python](Code/2/3/2356/2356.py) | 简单         |      |
