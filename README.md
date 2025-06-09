@@ -457,6 +457,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 0349 | 两个数组的交                                       | [Python](Code/0/3/0349/0349.py)                                    | 简单         |             |             |       |
 | 0350 | 两个数组的交集 II                                   | [Jupyter](Code/0/3/0350.ipynb)                                     | 简单         |             |             |       |
 | 0383 | 赎金信                                          | [Python](Code/0/3/0383/0383.py)                                    | 简单         |             |             |       |
+| 0386 | 字典序排数                                        | [Python](Code/0/3/0386/0386.py)                                    | 中等         |             |             |       |
 | 0412 | [Fizz Buzz](Code/0/4/0412/README.md)         | [Python](Code/0/4/0412/0412.py), [C++](Code/0/4/0412/0412.cpp)     | 简单         |             |             |       |
 | 0415 | 字符串相加                                        | [Python](Code/0/4/0415/0415.py)                                    | 简单         |             |             |       |
 | 0431 | [将 N 叉树编码为二叉树](Code/0/4/0431/README.md)      | [Python](Code/0/4/0431/0431.py)                                    | 困难         | 二叉树         |             | VIP   |
