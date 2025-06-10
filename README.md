@@ -662,6 +662,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3392 | 统计符合条件长度为 3 的子数组数目                           | [Python](Code/3/3/3392/3392.py)                                    | 简单         |             |             |       |
 | 3396 | 使数组元素互不相同所需的最少操作次数                           | [Python](Code/3/3/3396/3396.py)                                    | 简单         |             |             |       |
 | 3415 | [查找具有三个连续数字的产品](Code/3/4/3415/README.md)     | [Python](Code/3/4/3415/3415.py)                                    | 简单         |             |             | VIP   |
+| 3442 | 奇偶频次间的最大差值 I                                 | [Python](Code/3/4/3442/3442.py)                                    | 简单         |             |             |       |
 | 3483 | 不同三位偶数的数目                                    | [Python](Code/3/4/3483/3483.py)                                    | 简单         |             |             |       |
 
 ## LCR
