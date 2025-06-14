@@ -155,6 +155,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2529 | [正整数和负整数的最大计数](Code/2/5/2529/README.md)          | [Python](Code/2/5/2529/2529.py), [C++](Code/2/5/2529/2529.cpp)     |            |      |          |
 | 2563 | [统计公平数对的数目](Code/2/5/2563/README.md)             | [Python](Code/2/5/2563/2563.py)                                    |            |      |          |
 | 2594 | 修车的最少时间                                          | [Python](Code/2/5/2594/2594.py)                                    | 中等         | 二分答案 |          |
+| 2616 |                                                  |                                                                    |            |      |          |
 | 2702 | [使数字变为非正数的最小操作次数](Code/2/7/2702/README.md)       | [Python](Code/2/7/2702/2702.py)                                    | 困难         |      | VIP      |
 | 2982 | 找出出现至少三次的最长特殊子字符串 II                             | [Python](Code/2/9/2982/2982.py)                                    | 中等         | 二分答案 |          |
 | 3143 | 正方形中的最多点数                                        | [Python](Code/3/1/3143/3143.py)                                    | 中等         | 二分答案 |          |
@@ -631,6 +632,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 2500 | 删除每行中的最大值                                    | [Python](Code/2/5/2500/2500.py)                                    | 简单         |             |             |       |
 | 2502 | 设计内存分配器                                      | [Python](Code/2/5/2502/2502.py)                                    | 中等         |             |             |       |
 | 2520 | 统计能整除数字的位数                                   | [Python](Code/2/5/2520/2520.py)                                    | 简单         |             |             |       |
+| 2566 | 替换一个数字后的最大差值                                 | [Python](Code/2/5/2566/2566.py)                                    | 简单         | 贪心          |             |       |
 | 2586 | [统计范围内的元音字符串数](Code/2/5/2586/README.md)      | [Python](Code/2/5/2586/2586.py),   [C++](Code/2/5/2586/2586.cpp)   | 简单         |             |             |       |
 | 2595 | [奇偶位数](Code/2/5/2595/README.md)              | [Python](Code/2/5/2595/2595.py)                                    |            |             |             |       |
 | 2610 | 转换二维数组                                       | [Python](Code/2/6/2610/2610.py), [C++](Code/2/6/2610/2610.cpp)     | 中等         |             |             |       |
