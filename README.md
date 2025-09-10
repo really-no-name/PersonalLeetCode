@@ -534,6 +534,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1708 | [长度为 K 的最大子数组](Code/1/7/1708/README.md)      | [Python](Code/1/7/1708/1708.py)                                    | 简单         |             |             | VIP ? |
 | 1725 | 可以形成最大正方形的矩形数目                               | [Python](Code/1/7/1725/1725.py)                                    | 简单         |             |             |       |
 | 1732 | [找到最高海拔](Code/1/7/1732/README.md)            | [Python](Code/1/7/1732/1732.py), [C++](Code/1/7/1732/1732.cpp)     |            |             |             |       |
+| 1733 | 需要教语言的最少人数                                   | [Python](Code/1/7/1733/1733.py)                                    | 中等         |             |             | ?     |
 | 1742 | [盒子中小球的最大数量](Code/1/7/1742/README.md)        | [Python](Code/1/7/1742/1742.py), [C++](Code/1/7/1742/1742.cpp)     |            |             |             |       |
 | 1748 | 唯一元素的和                                       | [Python](Code/1/7/1748/1748.py)                                    | 简单         |             |             |       |
 | 1752 | 检查数组是否经排序和轮转得到                               | [Python](Code/1/7/1752/1752.py)                                    | 简单         |             |             |       |
