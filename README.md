@@ -670,6 +670,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 3423 | 循环数组中相邻元素的最大差值                               | [Python](Code/3/4/3423/3423.py)                                    | 简单         |             |             |       |
 | 3442 | 奇偶频次间的最大差值 I                                 | [Python](Code/3/4/3442/3442.py)                                    | 简单         |             |             |       |
 | 3483 | 不同三位偶数的数目                                    | [Python](Code/3/4/3483/3483.py)                                    | 简单         |             |             |       |
+| 3541 | 找到频率最高的元音和辅音                                 | [Python](Code/3/5/3541/3541.py)                                    | 简单         |             |             |       |
 
 ## LCR
 
