@@ -560,6 +560,7 @@ _**This project is for documenting my LeetCode related programmes.**_
 | 1920 | 基于排列构建数组                                     | [Python](Code/1/9/1920/1920.py)                                    | 简单         |             |             |       |
 | 1925 | 统计平方和三元组的数目                                  | [Python](Code/1/9/1925/1925.py)                                    | 简单         |             |             |       |
 | 1929 | 数组串联                                         | [Python](Code/1/9/1929/1929.py)                                    | 简单         |             |             |       |
+| 1935 | 可以输入的最大单词数                                   | [Python](Code/1/9/1935/1935.py)                                    | 简单         |             |             |       |
 | 1941 | 检查是否所有字符出现次数相同                               | [Python](Code/1/9/1941/1941.py)                                    | 简单         |             |             |       |
 | 1945 | 字符串转化后的各位数字之和                                | [Python](Code/1/9/1945/1945.py)                                    | 简单         |             |             |       |
 | 1952 | 三除数                                          | [Python](Code/1/9/1952/1952.py)                                    | 简单         |             |             |       |
